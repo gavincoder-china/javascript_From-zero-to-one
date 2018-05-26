@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>数据类型</title>
+    <script type="text/javascript" charset="utf-8">
+        //number数据类型
+        var a1=10;
+        var a2=10.5;   //小数精度为17位
+        var a3=NaN;       // NaN表示Not a Number，当无法计算结果时用NaN表示
+        var  a4=1/0;//返回正无穷   Infinity表示无限大，当数值超过了JavaScript的Number所能表示的最大值时，就表示为Infinity
+        var a5=070;//八进制跟十六进制都可以直接写   ，网页中返回的是十进制数
+        alert(a5);
+          //建立数组
+        var array = [1,2,3,4,5,6];
+        alert(array[0]);
+        //  对象
+        var person = {
+            name: 'Bob',
+            age: 20,
+            tags: ['js', 'web', 'mobile'],
+            city: 'Beijing',
+            hasCar: true,
+            zipcode: null
+        };
+        /*JavaScript对象的键都是字符串类型，值可以是任意数据类型。上述person对象一共定义了6个键值对，
+        其中每个键又称为对象的属性，例如，person的name属性为'Bob'，zipcode属性为null。*/
+        //要获取一个对象的属性，我们用对象变量.属性名的方式：
+        alert(person.age);
+
+
+
+    </script>
+</head>
+<body>
+ js中的数据类型
+分为两类：① 基本数据类型
+         ②引用类型
+基本数据类型包含：①number
+                ②boolean
+                ③string
+                ④undefined
+                ⑤null
+ <div>
+ 字符串
+ 字符串是以单引号'或双引号"括起来的任意文本，比如'abc'，"xyz"等等。
+ 请注意，''或""本身只是一种表示方式，不是字符串的一部分，因此，字符串'abc'只有a，b，c这3个字符。
+ </div>
+  <div>
+      布尔值
+ 布尔值和布尔代数的表示完全一致，一个布尔值只有true、false两种值，要么是true，要么是false，
+ 可以直接用true、false表示布尔值，也可以通过布尔运算计算出来：
+  </div>
+<div>
+    数组
+    数组用[]表示，元素之间用,分隔。
+
+</div>
+<div>
+    对象
+    JavaScript的对象是一组由键-值组成的无序集合
+
+</div>
+<div>
+
+    变量
+    变量的概念基本上和初中代数的方程变量是一致的，只是在计算机程序中，
+    变量不仅可以是数字，还可以是任意数据类型。
+
+    变量在JavaScript中就是用一个变量名表示，变量名是大小写英文、数字、$和_的组合，
+    且不能用数字开头。变量名也不能是JavaScript的关键字，如if、while等。
+    要显示变量的内容，可以用console.log(x)，打开Chrome的控制台就可以看到结果。
+    使用console.log()代替alert()的好处是可以避免弹出烦人的对话框。
+</div>
+
+
+</body>
+</html>
