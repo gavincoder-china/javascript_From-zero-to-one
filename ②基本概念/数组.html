@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>数组</title>
+    <script type="text/javascript">
+      /*建立一个数组*/
+        var array=[1,2,3,4,5,6];
+        /*通过索引值查找元素*/
+        console.log(array[0]);//输出1
+        /*通过索引值改变对应元素 */
+        array[2]='我是索引改变值';
+       /*通过索引改变array长度*/
+         array[8]=2;
+         console.log(array.length);
+        /*获得array的长度*/
+        console.log(array.length);
+        /*通过对length赋值，改变array的长度*/
+        array.length=8;
+        console.log(array.length);
+        /*indexof定位*/
+        console.log(array.indexOf(3));
+        /*slice 截取一定区间内的元素，并返回新的数组*/
+        var arr1=array.slice(1,3);//从索引1开始到3结束
+        var arr2=array.slice(3);//从索引0开始到3结束
+        console.log(arr1);
+        console.log(arr2);
+        /* push添加,并自动增加array长度，pop删除,并提示，意思就是我把最后一个元素弹出来给大家看一下，然后消失 */
+         arr1.push('我是push');
+         arr1.pop();//弹出元素   '我是push'
+         /* unshift在头部添加元素，shift删除第一个元素 */
+         arr1.unshift('我是unshift');
+         arr1.shift();//删除元素   '我是unshift'
+        /*  sort排序，一般排序 */
+        var arr3=[2,1,3,4,6,5];
+        arr3.sort();
+        arr3;//[1,2,3,4,5,6]
+        /*reverse反转*/
+        arr3.reverse();
+        arr3;//[6,5,4,3,2,1]
+        /*splice 删除并提示and添加*/
+        var arr4=['a','b','c','d','e','f'];
+        arr4.splice(2,3,'1','2','3');//从索引2开始删除两个元素，并添加三个新元素，提示删除的元素
+        arr4.splice(2,2);//从索引2开始，只删除两个元素，不添加
+        arr4.splice(2,0,'添加的元素');//从索引2开始，不删除元素，添加一个新元素
+        /*  concat连接*/
+        var arr5=['a','b','c'];
+        var  arrd_add=arr5.concat([1,2,3,4]);
+        arrd_add;//['a','b','c',1,2,3,4];
+        /* join 用指定字符连接数组元素,并返回字符串*/
+         arrd_add.join('-');//  a-b-c-1-2-3-4
+         /* 多维数组*/
+        var array_mult=[[1,2,3],[4,5,6,],7];
+        array_mult[0][0];//输出元素1
+
+        
+
+
+        
+    </script>
+</head>
+<body>
+   <div>
+       js的数组array可以包含任何的数据类型
+       并通过索引值来访问每个元素
+       获得array的长度——length
+       如果直接给array.length赋一个值，会改变array的长度
+       array可以通过索引直接改变对应的元素的值
+       如果通过索引赋值，也会改变array的长度大小   （不会产生越界报错，会直接改变大小致越界值）
+       indexof，定位
+       slice对应的就是string中的substring，截取一定区间内的元素，并返回一个新的array
+       push()向array尾部添加若干元素，pop()把array的最后一个元素删除掉
+       unshift &shift  往array头部添加元素，前者是不删除直接添加，后者是删掉第一个元素
+       sort 排序 （默认排序 ）
+       reverse  反转
+       splice 可以从指定的位置删除若干元素，并且会提示删除的元素，然后从该位置添加若干元素（可以单方面使用）
+       concat 连接array并返回新的array
+       join 把当前的元素都用指定的字符连接起来，并返回一个字符串——如果当前元素不是字符串，则先转化成字符串后再连接
+       多维数组 跟c的一样
+
+
+       这些就是array的相关操作函数，任何语言都一样的逻辑思维，不一样的就是表达方式跟名称变量。
+       没有必要去死记硬背。知道有这些东西就好。
+       
+
+
+   </div>
+</body>
+</html>
