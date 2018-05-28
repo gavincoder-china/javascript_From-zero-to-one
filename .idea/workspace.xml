@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f27df81-c600-406f-95a7-0d59121587c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/javascript_From-zero-to-one.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/②基本概念/变量.html" beforeDir="false" afterPath="$PROJECT_DIR$/②基本概念/变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/②基本概念/对象.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +18,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="对象.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +51,7 @@
         <option value="$PROJECT_DIR$/②基本概念/字符串.html" />
         <option value="$PROJECT_DIR$/②基本概念/变量.html" />
         <option value="$PROJECT_DIR$/②基本概念/数组.html" />
+        <option value="$PROJECT_DIR$/②基本概念/对象.html" />
       </list>
     </option>
   </component>
@@ -61,9 +65,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1750" />
-    <option name="height" value="985" />
+    <option name="x" value="465" />
+    <option name="width" value="977" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -143,6 +147,7 @@
       <workItem from="1527313711840" duration="10071000" />
       <workItem from="1527400854544" duration="11861000" />
       <workItem from="1527487287155" duration="3683000" />
+      <workItem from="1527500822182" duration="2286000" />
     </task>
     <task id="LOCAL-00001" summary="变量、字符串、数据类型">
       <created>1527328182996</created>
@@ -176,7 +181,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34312000" />
+    <option name="totallyTimeSpent" value="36598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,13 +194,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1003963" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.10632184" />
-      <window_info anchor="bottom" id="Messages" weight="0.32902297" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006605" side_tool="true" weight="0.12787357" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.41810346" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.17816092" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" x="0" y="298" width="1536" height="237" id="Terminal" order="7" sideWeight="0.4993395" weight="0.3275862" />
@@ -208,6 +213,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32902297" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,6 +365,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/②基本概念/Javascript中申明对象——var和let间差异.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
