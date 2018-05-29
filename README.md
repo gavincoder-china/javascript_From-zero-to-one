@@ -1,6 +1,6 @@
 # javascript_From-zero-to-one
 >In this project ,you will follow me to learn javascript.  
->>I will divide it into ten parts.  
+>I will divide it into ten parts.  
 **①初识JavaScript**  
 **②基本概念（语法，变量，基本数据类型，控制语句）……**  
 **③引用类型**  
