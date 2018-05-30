@@ -4,18 +4,64 @@
     <meta charset="UTF-8">
     <title>对象</title>
     <script type="text/javascript">
+      var gavin={
 
+          name:'gavin_coder',
+          tele:15950519615,
+          wechat:'xunyegege',
+          sex:'male',
+          age:22
+          
+      }
+       console.log(gavin.tele);//查询对象的tele属性值
+        /*小红*/
+        var xiaohong={
+            name:'xiaohong',
+            'school':'renmingluxiaoxue'//这个就不是有效变量
 
-
-
-
-
+        }
+         console.log(xiaohong['school']);
+        console.log(xiaohong.school)  ;      //在chrome里面，貌似非有效变量也能直接用xx.xx 访问了
+          /*添加、删除变量*/
+      var xiaoming = {
+          name: '小明'
+      };
+      xiaoming.age; // undefined
+      xiaoming.age = 18; // 新增一个age属性
+      xiaoming.age; // 18
+      delete xiaoming.age; // 删除age属性
+      xiaoming.age; // undefined
+      delete xiaoming['name']; // 删除name属性
+      xiaoming.name; // undefined
+      delete xiaoming.school; // 删除一个不存在的school属性也不会报错
+       /*测试对象里是否含有某些属性*/
+      var xiaoming = {
+          name: '小明',
+          birth: 1990,
+          school: 'No.1 Middle School',
+          height: 1.70,
+          weight: 65,
+          score: null
+      };
+      'name' in xiaoming; // true
+      'grade' in xiaoming; // false
+        /*hasOwnProperty()方法判断是否为自身属性*/
+      var xiaoming = {
+          name: '小明'
+      };
+      xiaoming.hasOwnProperty('name'); // true
+      xiaoming.hasOwnProperty('toString'); // false
     </script>
 </head>
 <body>
-
-
-
-
+JavaScript的对象是一种无序的集合数据类型，它由若干键值对组成。
+JavaScript用一个{...}表示一个对象，键值对以xxx: xxx形式申明，用,隔开。注意，最后一个键值对不需要在末尾加,，如果加了，有的浏览器（如低版本的IE）将报错。
+访问属性是通过.操作符完成的，但这要求属性名必须是一个有效的变量名。如果属性名包含特殊字符，就必须用''括起来
+ 如果不是有效的变量名，那就需要[]括起来
+  如果访问了一个不存在变量，则不会报错，会返回undefined，未定义
+由于JavaScript的对象是动态类型，你可以自由地给一个对象添加或删除属性
+如果我们要检测对象是否拥有某一属性，可以用in操作符：
+需要注意的是，有的时候这个属性是对象从父类继承来的
+这就需要hasOwnProperty()方法来判断  （因为toString定义在object对象中，而所有对象最终都会在原型链上指向object，所以对象也拥有toString属性）
 </body>
 </html>
