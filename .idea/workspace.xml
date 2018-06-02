@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f27df81-c600-406f-95a7-0d59121587c3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/②基本概念/对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/②基本概念/对象.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,20 +20,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="对象.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="对象.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="66" column="98" lean-forward="true" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
+            <state relative-caret-position="1050">
+              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="294">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -61,8 +64,8 @@
         <option value="$PROJECT_DIR$/②基本概念/字符串.html" />
         <option value="$PROJECT_DIR$/②基本概念/变量.html" />
         <option value="$PROJECT_DIR$/②基本概念/数组.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/②基本概念/对象.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -89,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,7 +109,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,6 +167,8 @@
       <workItem from="1527661506294" duration="2170000" />
       <workItem from="1527677344216" duration="1217000" />
       <workItem from="1527694314698" duration="2193000" />
+      <workItem from="1527778405433" duration="1199000" />
+      <workItem from="1527854463022" duration="763000" />
     </task>
     <task id="LOCAL-00001" summary="变量、字符串、数据类型">
       <created>1527328182996</created>
@@ -204,7 +209,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45383000" />
+    <option name="totallyTimeSpent" value="47345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -217,17 +222,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1003963" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.10632184" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5006605" side_tool="true" weight="0.12787357" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.17385058" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.17385058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" x="0" y="298" width="1536" height="237" id="Terminal" order="7" sideWeight="0.4993395" weight="0.3275862" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -279,6 +285,36 @@
     <option name="LAST_COMMIT_MESSAGE" value="对象" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="66" column="98" lean-forward="true" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -454,18 +490,20 @@
     <entry file="file://$PROJECT_DIR$/②基本概念/Javascript中申明对象——var和let间差异.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/②基本概念/对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="66" column="98" lean-forward="true" selection-start-line="66" selection-start-column="98" selection-end-line="66" selection-end-column="98" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="294">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
