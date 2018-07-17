@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/03 day/QQ注册验证.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 day/制作阿里巴巴登录界面.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 day/html5播放音视频.html" beforeDir="false" afterPath="$PROJECT_DIR$/02 day/html5播放音视频.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,86 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="制作热门活动页.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 day/制作热门活动页.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
-              <folding>
-                <element signature="e#124#130#0" expanded="true" />
-                <element signature="e#131#137#0" expanded="true" />
-                <element signature="e#138#144#0" expanded="true" />
-                <element signature="e#145#151#0" expanded="true" />
-                <element signature="e#152#158#0" expanded="true" />
-                <element signature="e#159#165#0" expanded="true" />
-                <element signature="e#166#172#0" expanded="true" />
-                <element signature="e#173#179#0" expanded="true" />
-                <element signature="e#180#186#0" expanded="true" />
-                <element signature="e#187#193#0" expanded="true" />
-                <element signature="e#194#200#0" expanded="true" />
-                <element signature="e#201#207#0" expanded="true" />
-                <element signature="e#208#214#0" expanded="true" />
-                <element signature="e#215#221#0" expanded="true" />
-                <element signature="e#222#228#0" expanded="true" />
-                <element signature="e#229#235#0" expanded="true" />
-                <element signature="e#236#242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="制作音乐排行榜.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 day/制作音乐排行榜.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <element signature="e#159#165#1" expanded="true" />
-                <element signature="e#165#171#0" expanded="true" />
-                <element signature="e#267#273#1" expanded="true" />
-                <element signature="e#272#278#0" expanded="true" />
-                <element signature="e#374#380#1" expanded="true" />
-                <element signature="e#379#385#0" expanded="true" />
-                <element signature="e#480#486#1" expanded="true" />
-                <element signature="e#487#493#0" expanded="true" />
-                <element signature="e#493#499#0" expanded="true" />
-                <element signature="e#499#505#0" expanded="true" />
-                <element signature="e#583#589#1" expanded="true" />
-                <element signature="e#601#607#0" expanded="true" />
-                <element signature="e#613#619#0" expanded="true" />
-                <element signature="e#619#625#0" expanded="true" />
-                <element signature="e#693#699#1" expanded="true" />
-                <element signature="e#715#721#0" expanded="true" />
-                <element signature="e#733#739#0" expanded="true" />
-                <element signature="e#739#745#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="制作表格流量表.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 day/制作表格流量表.html">
+      <file leaf-file-name="制作人人网登录界面.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03 day/制作人人网登录界面.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <caret line="58" column="54" lean-forward="true" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html5播放音视频.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02 day/html5播放音视频.html">
+      <file leaf-file-name="QQ注册验证.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03 day/QQ注册验证.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iframe内联框架.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02 day/iframe内联框架.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="358">
+              <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -135,8 +72,12 @@
         <option value="$PROJECT_DIR$/02 day/制作热门活动页.html" />
         <option value="$PROJECT_DIR$/02 day/制作音乐排行榜.html" />
         <option value="$PROJECT_DIR$/02 day/制作表格流量表.html" />
-        <option value="$PROJECT_DIR$/02 day/html5播放音视频.html" />
         <option value="$PROJECT_DIR$/02 day/iframe内联框架.html" />
+        <option value="$PROJECT_DIR$/02 day/html5播放音视频.html" />
+        <option value="$PROJECT_DIR$/03 day/网易邮箱登录.html" />
+        <option value="$PROJECT_DIR$/03 day/制作人人网登录界面.html" />
+        <option value="$PROJECT_DIR$/03 day/制作阿里巴巴登录界面.html" />
+        <option value="$PROJECT_DIR$/03 day/QQ注册验证.html" />
       </list>
     </option>
   </component>
@@ -173,7 +114,28 @@
             <path>
               <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="02 day" type="462c0819:PsiDirectoryNode" />
+              <item name="03 day" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="03 day" type="462c0819:PsiDirectoryNode" />
+              <item name="01 上机练习素材-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="03 day" type="462c0819:PsiDirectoryNode" />
+              <item name="01 上机练习素材-1" type="462c0819:PsiDirectoryNode" />
+              <item name="练习5： QQ注册验证" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="03 day" type="462c0819:PsiDirectoryNode" />
+              <item name="01 上机练习素材-1" type="462c0819:PsiDirectoryNode" />
+              <item name="练习5： QQ注册验证" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,7 +180,7 @@
       <updated>1531722728527</updated>
       <workItem from="1531722730902" duration="3774000" />
       <workItem from="1531732628546" duration="1520000" />
-      <workItem from="1531787769729" duration="13198000" />
+      <workItem from="1531787769729" duration="24292000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -269,11 +231,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531801753674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="..">
+      <created>1531805945057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1531805945057</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18492000" />
+    <option name="totallyTimeSpent" value="29586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,9 +257,9 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.290152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998565" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.110473454" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -498,7 +467,14 @@
     <entry file="file://$PROJECT_DIR$/02 day/iframe内联框架.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 day/html5播放音视频.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -539,7 +515,7 @@
     <entry file="file://$PROJECT_DIR$/02 day/制作热门活动页.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
-          <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding>
             <element signature="e#124#130#0" expanded="true" />
             <element signature="e#131#137#0" expanded="true" />
@@ -562,10 +538,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 day/html5播放音视频.html">
+    <entry file="file://$PROJECT_DIR$/03 day/网易邮箱登录.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="273">
+          <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+          <folding>
+            <element signature="e#1073#1079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 day/制作阿里巴巴登录界面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 day/制作人人网登录界面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="58" column="54" lean-forward="true" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 day/QQ注册验证.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
         </state>
       </provider>
     </entry>
