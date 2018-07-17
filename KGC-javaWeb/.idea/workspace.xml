@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/03 day/QQ注册验证.html" beforeDir="false" afterPath="$PROJECT_DIR$/03 day/QQ注册验证.html" afterDir="false" />
-    </list>
+    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="QQ注册验证.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03 day/QQ注册验证.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="233">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -113,6 +111,11 @@
               <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
               <item name="03 day" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ppt" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -156,7 +159,7 @@
       <updated>1531722728527</updated>
       <workItem from="1531722730902" duration="3774000" />
       <workItem from="1531732628546" duration="1520000" />
-      <workItem from="1531787769729" duration="25148000" />
+      <workItem from="1531787769729" duration="25441000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -235,11 +238,25 @@
       <option name="project" value="LOCAL" />
       <updated>1531818325173</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="表单">
+      <created>1531819125595</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531819125595</updated>
+    </task>
+    <task id="LOCAL-00013" summary="表单">
+      <created>1531819152939</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531819152939</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30442000" />
+    <option name="totallyTimeSpent" value="30735000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,15 +269,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998565" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.110473454" />
+      <window_info anchor="bottom" id="Messages" weight="0.30846485" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998565" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22238164" />
@@ -565,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03 day/QQ注册验证.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="233">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
