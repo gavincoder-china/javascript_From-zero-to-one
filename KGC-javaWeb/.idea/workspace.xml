@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03 day/QQ注册验证.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03 day/制作阿里巴巴登录界面.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 day/html5播放音视频.html" beforeDir="false" afterPath="$PROJECT_DIR$/02 day/html5播放音视频.html" afterDir="false" />
-    </list>
+    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="QQ注册验证.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03 day/QQ注册验证.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+            <state relative-caret-position="218">
+              <caret line="13" column="98" lean-forward="true" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -116,27 +111,6 @@
               <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
               <item name="03 day" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="03 day" type="462c0819:PsiDirectoryNode" />
-              <item name="01 上机练习素材-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="03 day" type="462c0819:PsiDirectoryNode" />
-              <item name="01 上机练习素材-1" type="462c0819:PsiDirectoryNode" />
-              <item name="练习5： QQ注册验证" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="03 day" type="462c0819:PsiDirectoryNode" />
-              <item name="01 上机练习素材-1" type="462c0819:PsiDirectoryNode" />
-              <item name="练习5： QQ注册验证" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -180,7 +154,7 @@
       <updated>1531722728527</updated>
       <workItem from="1531722730902" duration="3774000" />
       <workItem from="1531732628546" duration="1520000" />
-      <workItem from="1531787769729" duration="24292000" />
+      <workItem from="1531787769729" duration="24534000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -238,11 +212,32 @@
       <option name="project" value="LOCAL" />
       <updated>1531805945057</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="表单">
+      <created>1531818139660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531818139660</updated>
+    </task>
+    <task id="LOCAL-00010" summary="表单">
+      <created>1531818252750</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1531818252750</updated>
+    </task>
+    <task id="LOCAL-00011" summary="表单">
+      <created>1531818325173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1531818325173</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29586000" />
+    <option name="totallyTimeSpent" value="29828000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,7 +250,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20555188" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998565" />
@@ -333,7 +327,8 @@
     <MESSAGE value="锚点" />
     <MESSAGE value="iframe" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="表单" />
+    <option name="LAST_COMMIT_MESSAGE" value="表单" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01 day/京东快速购物导航/5.html">
@@ -567,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03 day/QQ注册验证.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        <state relative-caret-position="218">
+          <caret line="13" column="98" lean-forward="true" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
         </state>
       </provider>
     </entry>
