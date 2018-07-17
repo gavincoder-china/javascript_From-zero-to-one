@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="..">
-      <change afterPath="$PROJECT_DIR$/02 day/制作热门活动页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02 day/制作表格流量表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02 day/制作音乐排行榜.html" afterDir="false" />
+    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 day/01.课工场HTML5基础、列表.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 day/02.课工场表格与媒体元素.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 day/03.课工场表单.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 day/html5播放音视频.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 day/iframe内联框架.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="制作热门活动页.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="制作热门活动页.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 day/制作热门活动页.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="301">
+              <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
               <folding>
                 <element signature="e#124#130#0" expanded="true" />
                 <element signature="e#131#137#0" expanded="true" />
@@ -90,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html5播放音视频.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="html5播放音视频.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02 day/html5播放音视频.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="69" lean-forward="true" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+            <state relative-caret-position="168">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -178,6 +170,11 @@
               <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="02 day" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,7 +218,7 @@
       <updated>1531722728527</updated>
       <workItem from="1531722730902" duration="3774000" />
       <workItem from="1531732628546" duration="1520000" />
-      <workItem from="1531787769729" duration="12559000" />
+      <workItem from="1531787769729" duration="13198000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -265,11 +262,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531799483871</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="..">
+      <created>1531801753674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1531801753674</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17853000" />
+    <option name="totallyTimeSpent" value="18492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,6 +286,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.290152" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32998565" />
@@ -497,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 day/html5播放音视频.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="69" lean-forward="true" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02 day/制作表格流量表.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -540,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02 day/制作热门活动页.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        <state relative-caret-position="301">
+          <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
           <folding>
             <element signature="e#124#130#0" expanded="true" />
             <element signature="e#131#137#0" expanded="true" />
@@ -561,6 +559,13 @@
             <element signature="e#229#235#0" expanded="true" />
             <element signature="e#236#242#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 day/html5播放音视频.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
