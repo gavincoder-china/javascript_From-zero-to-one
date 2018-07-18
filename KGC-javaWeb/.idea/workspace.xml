@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -212,7 +210,7 @@
       <workItem from="1531787769729" duration="25441000" />
       <workItem from="1531819896258" duration="655000" />
       <workItem from="1531873536904" duration="341000" />
-      <workItem from="1531873932709" duration="12635000" />
+      <workItem from="1531873932709" duration="12841000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -333,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531874558326</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="..">
+      <created>1531888220060</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1531888220060</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44366000" />
+    <option name="totallyTimeSpent" value="44572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,9 +432,9 @@
     <MESSAGE value="锚点" />
     <MESSAGE value="iframe" />
     <MESSAGE value="表单" />
-    <MESSAGE value=".." />
     <MESSAGE value="yexk所著js相关知识点的md文档的图片包" />
-    <option name="LAST_COMMIT_MESSAGE" value="yexk所著js相关知识点的md文档的图片包" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/03 day/制作人人网登录界面.html">
