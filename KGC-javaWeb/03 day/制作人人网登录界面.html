@@ -9,14 +9,15 @@
 <img src="01 上机练习素材-1/练习2：人人网注册页面/image/renren_titile.gif" height="69" width="258"/> <br> <br>
 人人网，中国 <b>最真实、最有效</b>的社会平台，加入人人网，找回老朋友，结交新朋友。 <br>
 
-<form method="post">
+<form method="post" enctype="multipart/form-data">
 
-    <p>电子邮箱：<input type="text"></p>
+    <p>电子邮箱：<input type="email"></p>
     <p>设置密码：<input type="password"></p>
     <p>真实姓名：<input type="text"></p>
     性别：<input type="radio" name="gen" value="男" checked>
     男<input type="radio" name="gen" value="女">
     女<br> <br>
+    <p>请上传你的照片<input type="file"> </p>
     生日：<select name="birthday year" size="1">
     <option name="birthday year">1998</option>
     <option name="birthday year">1999</option>
@@ -37,12 +38,14 @@
     </select>
     <br>
     <p>为什么要填写我的生日？</p>
+    <textarea cols="20"rows="5"></textarea>  <br>
+    
     我现在是：<select size="1">
     <option>请选择身份</option>
     <option>学生</option>
     <option>医生</option>
 
-</select> <br> <br>
+</select> (非常重要)<br> <br>
 
 
     <img src="01 上机练习素材-1/练习2：人人网注册页面/image/renren_code.gif" height="47" width="124"/>
@@ -51,8 +54,8 @@
     <br>
     <br>
 
-
-    <img src="01 上机练习素材-1/练习2：人人网注册页面/image/renren.gif" height="40" width="167"/></form>
+    <input type="image" src="01 上机练习素材-1/练习2：人人网注册页面/image/renren.gif">
+    <!--<img src="01 上机练习素材-1/练习2：人人网注册页面/image/renren.gif" height="40" width="167"/>--></form>
 
 
 </body>

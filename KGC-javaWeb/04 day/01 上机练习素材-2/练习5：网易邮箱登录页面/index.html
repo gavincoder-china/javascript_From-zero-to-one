@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>网易邮箱登录</title>
+
+</head>
+<body>
+<!--第一步，先把网页划分结构 该网页大概分为三部分，上中下结构-->
+<!--header头部里面分为两部分，左右，左边放logo，右边是文字-->
+    <header>
+        <!--左边logo-->
+        <h1><a href="#"><img src="images/163logo.gif" alt="logo"/></a></h1>
+        <!--右边超链接-->
+        <p>
+            <a href="#">免费邮</a>
+            <a href="#"> 企业邮</a>
+            <a href="#">VIP邮箱</a>
+            <a href="#">帮助</a>
+        </p>
+    </header>
+<!--中间的section部分又分为左右结构，左边是图片和无序列表，右边是表单-->
+    <section>
+        <!--左边-->
+        <div>
+            <img src="images/imap.jpg" alt=""/>
+            <ul>
+                <li>163/126/yeah三大免费邮箱均默认开放</li>
+                <li>全面支持iPhone/iPad及Android等系统</li>
+                <li>客户端、手机与网页，实现发送、阅读邮件</li>
+            </ul>
+            <a href="#">立即同步普通登录手机号登录</a>
+        </div>
+        <!--右边-->
+        <form action="#" method="get">
+            <p>
+                用户名：
+                <input type="text" name="userName"/>
+                @163.com
+            </p>
+            <p>
+                密码：
+                <input type="password" name="psw"/>
+            </p>
+            <p>
+                版本：
+                <select name=""version id="">
+                    <option value="">默认</option>
+                    <option value="2018">2018</option>
+                    <option value="2017">2017</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                </select>
+            </p>
+            <p>
+                <input type="checkbox" value="autoLogin"/>自动登录
+                <input type="checkbox" value="ssl" checked/>SSL
+            </p>
+        </form>
+    </section>
+<!--底部-->
+    <footer>
+        <img src="images/netease_logo.gif" alt=""/>
+        <a href="#">关于网易</a>
+        <a href="#">免费邮 </a>
+        <a href="#">官方博客</a>
+        <a href="#">客户服务 </a>
+        <a href="#">隐私政策</a>|
+        <a href="#">网易公司版权所有  &copy; 2015-2018</a>
+    </footer>
+</body>
+</html>

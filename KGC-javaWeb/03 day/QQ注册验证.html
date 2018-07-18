@@ -5,24 +5,26 @@
     <title>QQ注册验证</title>
 </head>
 <body>
-<img src="01 上机练习素材-1/练习5： QQ注册验证/image/bg_chs.png" height="109" width="1300"/> <br>
+<img src="01 上机练习素材-1/练习4： QQ注册验证/image/bg_chs.png" height="109" width="1300"/> <br>
 <br>
-<form method="post">
-    <p>昵称：<input type="text" minlength="4" maxlength="10"></p>
-    <p>密码：<input type="password" maxlength="16" minlength="6"></p>
-    <p>确认密码：<input type="password" maxlength="16" minlength="6"></p>
+<form method="post" action="https://www.baidu.com">
+    <p>昵称：<input type="text" minlength="4" maxlength="10" placeholder="请输入长度为4-10的昵称" style="width: 200px"></p>
+
+    <p>密码：<input type="password" maxlength="16" minlength="6" style="width: 200px" placeholder="请输入长度为6-16的密码"></p>
+    <p>确认密码：<input type="password" maxlength="16" minlength="6"placeholder="请输入长度为6-16的密码"></p>
     <p>手机号码：
-        <select size="1">
-            <option>135</option>
-            <option>137</option>
-            <option>138</option>
+        <!--<select size="1">-->
+        <!--<option>135</option>-->
+        <!--<option>137</option>-->
+        <!--<option>138</option>-->
 
-        </select>
-        <input type="number" maxlength="8" minlength="8"></p>
+        <!--</select>-->
+        <input type="text" maxlength="11" minlength="8" placeholder="请输入135/7/8开头的手机号码" style="width: 200px" pattern="^1[3578]\d{11}"></p>
     <p>邮箱：<input type="email"></p>
-    <p><input type="image" src="01%20上机练习素材-1/练习5：%20QQ注册验证/image/btn.bmp"> </p>
-</form>
+    <p>年龄：<input type="number"></p>
 
+    <p><input type="image" src="01%20上机练习素材-1/练习4：%20QQ注册验证/image/btn.bmp"></p>
+</form>
 
 
 </body>
