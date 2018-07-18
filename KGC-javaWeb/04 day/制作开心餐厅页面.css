@@ -1,0 +1,25 @@
+p{
+
+    font-size: 14px;
+}
+.h2_1{
+
+
+    color: red;
+}
+body h2{
+
+
+    font-size: 16px;
+}
+.h2_1~h2{
+
+
+    color: blue;
+}
+body > img{
+
+
+    width: 887px;
+    height: 439px;
+}
