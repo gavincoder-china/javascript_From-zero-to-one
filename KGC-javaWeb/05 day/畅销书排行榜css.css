@@ -1,0 +1,111 @@
+.banner1 {
+
+    height: 30px;
+    font-size: 16px;
+    text-indent: 1em;
+    background-color: #518700;
+    color: white;
+    font-weight: bold;
+
+}
+
+.img {
+    vertical-align: middle;
+    width: 60px;
+}
+
+li {
+
+    list-style-type: none;
+    line-height: 30px;
+
+}
+
+div {
+
+    color: #1F87CC;
+    /* width: 300px;*/
+    /*height:100px;*/
+    padding: 3px;
+    border: 1px solid #ccc;
+    background: -webkit-linear-gradient(top, #F9FBCB, #F8F8F3); /* Safari, Chrome*/
+    background: -moz-linear-gradient(top, #F9FBCB, #F8F8F3); /* Firefox*/
+    background: -o-linear-gradient(top, #F9FBCB, #F8F8F3); /* Opera, Opera mobile*/
+
+}
+
+a {
+
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #FF0000;
+}
+
+li img{
+    width: 20px;
+
+}
+
+/*
+ul li:nth-of-type(1) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no01.gif);
+    0 center;
+    no-repeat;
+}
+
+ul li:nth-of-type(2) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no02.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(3) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no03.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(4) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no04.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(5) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no05.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(6) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no06.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(7) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no07.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(8) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no08.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(9) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no09.gif);
+    0 center ;
+    no-repeat;
+}
+
+ul li:nth-of-type(10) {
+    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no10.gif);
+    0 center ;
+    no-repeat;
+}*/
