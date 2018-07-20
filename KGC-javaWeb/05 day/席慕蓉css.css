@@ -1,0 +1,41 @@
+body {
+    background: -webkit-linear-gradient(top, #F9FBCB, #F8F8F3); /* Safari, Chrome*/
+    background: -moz-linear-gradient(top, #F9FBCB, #F8F8F3); /* Firefox*/
+    background: -o-linear-gradient(top, #F9FBCB, #F8F8F3); /* Opera, Opera mobile*/
+    background-repeat: no-repeat;
+}
+
+h1 {
+    display: inline-block;
+    width: 50%;
+    text-shadow: 2px 2px 8px #9d9d9d;
+    font-weight: bolder;
+    text-align: right;
+    color: #67b168;
+    float: left;
+    line-height: 250px;
+    height: 250px;
+}
+
+h2 {
+    display: inline-block;
+    width: 50%;
+    line-height: 250px;
+    font-weight: bold;
+    /*padding-left: 50px;*/
+    text-align: left;
+    color: #9d9d9d;
+    float: left;
+    height: 250px;
+}
+
+p {
+    clear: both;
+    text-align: center;
+}
+
+div{
+
+
+    width: 100%;
+}

@@ -1,0 +1,18 @@
+div {
+
+    background: -webkit-linear-gradient(top, #F9FBCB, #F8F8F3); /* Safari, Chrome*/
+    background: -moz-linear-gradient(top, #F9FBCB, #F8F8F3); /* Firefox*/
+    background: -o-linear-gradient(top, #F9FBCB, #F8F8F3); /* Opera, Opera mobile*/
+
+}
+
+span {
+    display: inline-block;
+    color: white;
+    background-color: #5bc0de;
+}
+p{
+    color: #67b168;
+
+
+}

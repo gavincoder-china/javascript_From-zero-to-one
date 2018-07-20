@@ -42,6 +42,7 @@ a {
 a:hover {
     text-decoration: underline;
     color: #FF0000;
+             
 }
 
 li img{
@@ -49,19 +50,15 @@ li img{
 
 }
 
-/*
-ul li:nth-of-type(1) {
-    background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no01.gif);
-    0 center;
-    no-repeat;
-}
 
-ul li:nth-of-type(2) {
+
+
+/*ul li:nth-of-type(2) {
     background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no02.gif);
     0 center ;
     no-repeat;
-}
-
+}*/
+/*
 ul li:nth-of-type(3) {
     background: url(05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no03.gif);
     0 center ;
