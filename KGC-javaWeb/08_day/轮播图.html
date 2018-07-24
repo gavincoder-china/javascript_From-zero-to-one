@@ -1,0 +1,335 @@
+<!--
+&lt;!&ndash;
+
+                     _                         _             
+                                        (_)                       | |            
+                     __ _   __ _ __   __ _  _ __    ___  ___    __| |  ___  _ __ 
+                    / _` | / _` |\ \ / /| || '_ \  / __|/ _ \  / _` | / _ \| '__|
+                   | (_| || (_| | \ V / | || | | || (__| (_) || (_| ||  __/| |   
+                    \__, | \__,_|  \_/  |_||_| |_| \___|\___/  \__,_| \___||_|   
+                     __/ |                                                       
+                    |___/  
+
+
+&ndash;&gt;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>轮播图</title>
+    <style>
+       /* * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            font-size: 14px;
+        }
+
+        html, body {
+            height: 100%;
+        }
+
+        #container {
+            width: 100%;
+            height: 500px;
+            overflow: hidden;
+        }
+
+        .sections, .section {
+            height: 100%;
+        }
+
+        #container, .sections {
+            position: relative;
+        }
+
+        .section {
+            background-color: #000;
+            background-size: cover;
+            background-position: 50% 50%;
+            text-align: center;
+            color: white;
+        }
+
+        #section0 {
+            background-image: url(img/143293724050795118.jpg);
+        }
+
+        #section1 {
+            background-image: url(img/20171224_184302.jpg);
+        }
+
+        #section2 {
+            background-image: url(img/26820467555373368.jpg);
+        }
+
+        #section3 {
+            background-image: url(img/95458688288331730.jpg);
+        }
+!*
+        .pages li {
+            list-style-type: none;
+            width: 10px;
+            height: 10px;
+            border-radius: 10px;
+            background-color: black;
+        }
+
+        .pages li:hover {
+            box-shadow: 0 0 5px 2px white
+        }
+
+        .pages li.active {
+            background-color: orange;
+            box-shadow: 0 0 5px 2px orange
+        }
+
+        .pages {
+            position: absolute;
+            z-index: 999
+        }
+
+        .pages.horizontal {
+            left: 50%;
+            transform: translateX(-50%);
+            bottom: 5px
+        }
+
+        .pages.horizontal li {
+            display: inline-block;
+            margin-right: 10px
+        }
+
+        .pages.horizontal li:last-child {
+            margin-right: 0
+        }
+
+        .pages.vertical {
+            right: 5px;
+            top: 50%;
+            transform: translateY(-50%)
+        }
+
+        .pages.vertical li {
+            margin-bottom: 10px
+        }
+
+        .pages.vertical li:last-child {
+            margin-bottom: 0
+        }*!*/
+    </style>
+</head>
+<body>
+&lt;!&ndash;<div id="container">
+    <div class="sections">
+        <div class="section" id="section0"><h3>this is the page1</h3></div>
+        <div class="section" id="section1"><h3>this is the page2</h3></div>
+        <div class="section" id="section2"><h3>this is the page3</h3></div>
+        <div class="section" id="section3"><h3>this is the page4</h3></div>
+    </div>
+</div>&ndash;&gt;
+
+</body>
+
+&lt;!&ndash;<script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>&ndash;&gt;
+
+<&lt;!&ndash;script>
+    $("#container").PageSwitch({
+        direction:'horizontal',
+        easing:'ease-in',
+        duration:1000,
+        autoPlay:true,
+        loop:'false'
+    });
+</script>&ndash;&gt;
+</html>
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS3仿JS轮播图</title>
+    <link rel="stylesheet" href="lbimage.css"/>
+
+
+    <style>
+
+
+        body{
+            /*background-image: url("images/bbbefb51f8198618b654e23e48ed2e738ad4e69a.jpg");*/
+            background-size: cover;
+        }
+        img{
+            width: 850px;
+            height: 500px;
+        }
+        .photo{
+            width: 900px;
+            height: 550px;
+            border: 1px solid #555555;
+            margin: auto auto;
+            position: relative;
+            background: #ffffff;
+            box-shadow: 0 10px 80px rgba(0,0,0,.6)
+        }
+        .photo input{
+            display: none;
+        }
+        .image{
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 800px;
+            height: 450px;
+            margin: 25px 25px;
+            transform: scale(0);
+            opacity: 0;
+            transition: all 0.7s;
+        }
+        .image img{
+
+        }
+        .nav label{
+            width: 150px;
+            height: 500px;
+            margin: 25px 25px;
+            position: absolute;
+            z-index: 10;
+            opacity: 0;
+            display: none;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            color: #ffffff;
+            font-size: 50px;
+            line-height: 450px;
+            text-align: center;
+            text-shadow: 0 0 15px #555555;);
+        }
+        .leftjianbian{
+            background: linear-gradient(right , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -o-linear-gradient(right , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -ms-linear-gradient(right , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -moz-linear-gradient(right , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -webkit-linear-gradient(right , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+        }
+        .rightjianbian{
+            background: linear-gradient(left , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -o-linear-gradient(left , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -ms-linear-gradient(left , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -moz-linear-gradient(left , rgba(250, 242, 239,0) 1% , rgba(158, 148, 166,0.5) 100%);
+            background: -webkit-linear-gradient(left , rgba(250, 242, 239,0) 10% , rgba(158, 148, 166,0.5) 100%);
+        }
+        .image:hover + .nav label{
+            opacity: 0.5;
+        }
+        .nav label:hover{
+            opacity: 1;
+        }
+        .nav .down{
+            right: 0;
+        }
+        input:checked + .control .image{
+            opacity: 1;
+            transform: scale(1);
+            transition: all 1s;
+        }
+        input:checked + .control .nav label{
+            display: block;
+        }
+        .dots{
+            width:100%;
+            height: 20px;
+            position: absolute;
+            bottom: 30px;
+            text-align: center;
+        }
+        .dot{
+            width: 10px;
+            height: 10px;
+            margin: 0px 5px;
+            border-radius: 50%;
+            position: relative;
+            display: inline-block;
+            background: rgba(0,0,0,0.3);
+        }
+        input#img1:checked ~ .dots label#dot1,
+        input#img2:checked ~ .dots label#dot2,
+        input#img3:checked ~ .dots label#dot3,
+        input#img4:checked ~ .dots label#dot4,
+        input#img5:checked ~ .dots label#dot5,
+        input#img6:checked ~ .dots label#dot6{
+            background: rgba(0,0,0,0.7);
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="photo" id="photo">
+    <!--//1-->
+    <input type="radio" name="btn" id="img1" checked/>
+    <div class="control">
+        <div class="image"><img src="img/20171224_184302.jpg"/></div>
+        <div class="nav">
+            <label for="img6" class="up leftjianbian"><</label>
+            <label for="img2" class="down rightjianbian">></label>
+        </div>
+    </div>
+    <!--//2-->
+    <input type="radio" name="btn" id="img2"/>
+    <div class="control">
+        <div class="image"><img src="img/26820467555373368.jpg"/></div>
+        <div class="nav">
+            <label for="img1" class="up leftjianbian"><</label>
+            <label for="img3" class="down rightjianbian">></label>
+        </div>
+    </div>
+    <!--//3-->
+    <input type="radio" name="btn" id="img3"/>
+    <div class="control">
+        <div class="image"><img src="img/95458688288331730.jpg"/></div>
+        <div class="nav">
+            <label for="img2" class="up leftjianbian"><</label>
+            <label for="img4" class="down rightjianbian">></label>
+        </div>
+    </div>
+    <!--//4-->
+    <input type="radio" name="btn" id="img4"/>
+    <div class="control">
+        <div class="image"><img src="img/143293724050795118.jpg"/></div>
+        <div class="nav">
+            <label for="img3" class="up leftjianbian"><</label>
+            <label for="img5" class="down rightjianbian">></label>
+        </div>
+    </div>
+    <!--//5-->
+    <input type="radio" name="btn" id="img5"/>
+    <div class="control">
+        <div class="image"><img src="img/微信图片_20180311201303.jpg"/></div>
+        <div class="nav">
+            <label for="img4" class="up leftjianbian"><</label>
+            <label for="img6" class="down rightjianbian">></label>
+        </div>
+    </div>
+    <!--//6-->
+    <input type="radio" name="btn" id="img6"/>
+    <div class="control">
+        <div class="image"><img src="img/微信图片_20180311203435.jpg"/></div>
+        <div class="nav">
+            <label for="img5" class="up leftjianbian"><</label>
+            <label for="img1" class="down rightjianbian">></label>
+        </div>
+    </div>
+    <div class="dots">
+        <label for="img1" class="dot" id="dot1"></label>
+        <label for="img2" class="dot" id="dot2"></label>
+        <label for="img3" class="dot" id="dot3"></label>
+        <label for="img4" class="dot" id="dot4"></label>
+        <label for="img5" class="dot" id="dot5"></label>
+        <label for="img6" class="dot" id="dot6"></label>
+    </div>
+
+
+</div>
+</body>
+</html>
