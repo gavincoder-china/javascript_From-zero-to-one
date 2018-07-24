@@ -1,0 +1,223 @@
+<!--
+
+                     _                         _             
+                                        (_)                       | |            
+                     __ _   __ _ __   __ _  _ __    ___  ___    __| |  ___  _ __ 
+                    / _` | / _` |\ \ / /| || '_ \  / __|/ _ \  / _` | / _ \| '__|
+                   | (_| || (_| | \ V / | || | | || (__| (_) || (_| ||  __/| |   
+                    \__, | \__,_|  \_/  |_||_| |_| \___|\___/  \__,_| \___||_|   
+                     __/ |                                                       
+                    |___/  
+
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>banner</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            font-size: 14px;
+        }
+
+        .xdf_banner {
+            width: 100%;
+            height: 70px;
+            background-color: #EEEEEB;
+
+        }
+
+        .xdf_banner_span {
+            height: 50px;
+            margin-top: 10px;
+            float: left;
+            left: 100px;
+            margin-left: 100px;
+        }
+
+        .xdf_banner_span > span {
+
+            color: #74717A;
+            line-height: 30px;
+            height: 30px;
+            margin-top: 10px;
+            margin-left: 10px;
+            display: inline-block;
+            font-weight: bold;
+            font-size: large;
+            margin-left: 50px;
+            padding-right: 50px;
+            border-right-color: grey;
+            border-right-style: dashed;
+
+        }
+
+        a:hover {
+
+            color: mediumvioletred;
+            font-weight: bold;
+        }
+
+        span:hover {
+
+            color: mediumvioletred;
+            font-weight: bold;
+
+        }
+
+        a {
+            cursor: pointer;
+            font-size: 26px;
+            color: #CFC5BC;
+        }
+
+        .xdf_fixed {
+
+            width: 500px;
+            height: 350px;
+            /*position: fixed;*/
+            position: absolute;
+            right: 0px;
+            top: 150px;
+            border-style: solid;
+            border-color: #D6D6D6;
+            border-width: thin;
+            box-shadow: 5px 5px 5px grey;
+
+            display: none;
+            /*visibility:hidden;*/
+            /*opacity:0;*/
+        }
+
+        .xdf_display_block:hover~.xdf_fixed{
+             display:block; !important
+             /*visibility: visible; !important*/
+            /*opacity:1;*/
+        }
+
+        .xdf_fixed_div {
+
+            border-bottom: thin dashed #CFC5BC;
+            margin-left: 20px;
+            margin-top: 20px;
+            margin-right: 20px;
+        }
+
+        li {
+            float: left;
+
+            margin-top: 10px;
+
+        }
+
+        ul {
+
+            margin-left: 10px;
+        }
+
+        ul:after {
+
+            content: '';
+            display: block;
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+<div class="xdf_banner">
+
+
+    <img src="02 作业素材/作业5：新东方顶导航/图片素材/logo.gif" height="70" style="float: left;margin-left: 50px;"/>
+
+    <div class="xdf_banner_span">
+        <span>购物车</span><span>优惠券</span><span>快速注卡</span><span>各地购课</span><span>手机报</span><span
+            style="border: none;padding-right: 5px" class="xdf_display_block">网站导航</span>
+
+        <div class="xdf_fixed">
+
+
+            <div class="xdf_fixed_div">
+                <ul>
+                    <li class="li"><a>托福 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>雅思 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>考验 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>职称英语 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>初中 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>日语 &nbsp; &nbsp;</a></li>
+                </ul>
+            </div>
+
+            <div class="xdf_fixed_div">
+                <ul>
+                    <li class="li"><a>网络课堂 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>咨询中心 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>知识堂 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>大师讲坛 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>学历论坛 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>学词 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>考研搜学 &nbsp; &nbsp;</a></li>
+                </ul>
+            </div>
+
+            <div class="xdf_fixed_div" style="border: none">
+                <ul>
+                    <li class="li"><a>M-Zone &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>手机报 &nbsp; &nbsp;</a></li>
+                    <li class="li"><a>时时英语</a></li>
+                </ul>
+            </div>
+
+
+        </div>
+
+
+        <img src="02 作业素材/作业5：新东方顶导航/图片素材/open_icon.gif" height="4" width="8" style="position: relative;top:-8px"/>
+    </div>
+
+
+</div>
+
+<!--<div class="xdf_fixed">
+
+
+    <div class="xdf_fixed_div">
+        <ul>
+            <li class="li"><a>托福 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>雅思 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>考验 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>职称英语 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>初中 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>日语 &nbsp; &nbsp;</a></li>
+        </ul>
+    </div>
+
+    <div class="xdf_fixed_div">
+        <ul>
+            <li class="li"><a>网络课堂 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>咨询中心 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>知识堂 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>大师讲坛 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>学历论坛 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>学词 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>考研搜学 &nbsp; &nbsp;</a></li>
+        </ul>
+    </div>
+
+    <div class="xdf_fixed_div" style="border: none">
+        <ul>
+            <li class="li"><a>M-Zone &nbsp; &nbsp;</a></li>
+            <li class="li"><a>手机报 &nbsp; &nbsp;</a></li>
+            <li class="li"><a>时时英语</a></li>
+        </ul>
+    </div>
+
+
+</div>-->
+
+
+</body>
+</html>
