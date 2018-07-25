@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/07_day/01 上机练习素材-5/热门活动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_day/QQ会员.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_day/京东首页轮播.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_day/新东方顶部导航.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_day/美食今日推荐.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_day/实战演习.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_day/新东方顶部导航.html" beforeDir="false" afterPath="$PROJECT_DIR$/08_day/新东方顶部导航.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js相关知识点——yexk著.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../media/087ab007327f72b8dc4216116cd42fc9.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../media/10e7346aa5e7a03d00d156f9a1ce92f1.png" beforeDir="false" />
@@ -51,49 +48,64 @@
     <session id="1125121303">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="15" />
+          <entry key="html" value="17" />
           <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="15" />
+          <entry key="HTML" value="17" />
           <entry key="Image" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2962" />
+          <entry key="html" value="3413" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2962" />
+          <entry key="HTML" value="3413" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08_day/新东方顶部导航.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="98" column="69" lean-forward="true" selection-start-line="98" selection-start-column="69" selection-end-line="98" selection-end-column="69" />
+            <state relative-caret-position="2421">
+              <caret line="192" column="140" lean-forward="true" selection-start-line="192" selection-start-column="140" selection-end-line="192" selection-end-column="140" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09_day/实战演习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03 day/制作人人网登录界面.html" />
         <option value="$PROJECT_DIR$/03 day/制作阿里巴巴登录界面.html" />
         <option value="$PROJECT_DIR$/03 day/网易邮箱登录.html" />
         <option value="$PROJECT_DIR$/03 day/form1.html" />
@@ -170,6 +181,7 @@
         <option value="$PROJECT_DIR$/08_day/京东首页轮播.html" />
         <option value="$PROJECT_DIR$/08_day/美食今日推荐.html" />
         <option value="$PROJECT_DIR$/08_day/新东方顶部导航.html" />
+        <option value="$PROJECT_DIR$/09_day/实战演习.html" />
       </list>
     </option>
   </component>
@@ -179,7 +191,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="295" />
     <option name="width" value="1060" />
     <option name="height" value="1050" />
@@ -274,7 +286,8 @@
       <workItem from="1532347785162" duration="5694000" />
       <workItem from="1532392134054" duration="127000" />
       <workItem from="1532392459379" duration="26860000" />
-      <workItem from="1532444931165" duration="1887000" />
+      <workItem from="1532444931165" duration="2016000" />
+      <workItem from="1532478022944" duration="5689000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -437,11 +450,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532071053989</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="css 浮动&amp;定位">
+      <created>1532446901848</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1532446901848</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153124000" />
+    <option name="totallyTimeSpent" value="158942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,7 +473,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16523464" />
@@ -537,16 +557,10 @@
     <MESSAGE value=".." />
     <MESSAGE value="css选择器" />
     <MESSAGE value="css text&amp;image样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="css text&amp;image样式" />
+    <MESSAGE value="css 浮动&amp;定位" />
+    <option name="LAST_COMMIT_MESSAGE" value="css 浮动&amp;定位" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04 day/制作开心餐厅页面.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04 day/网易邮箱登录界面.html" />
     <entry file="file://$PROJECT_DIR$/04 day/网易邮箱登录界面优化.html" />
     <entry file="file://$PROJECT_DIR$/04 day/css.html" />
@@ -808,13 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_day/子绝父相.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08_day/美食今日推荐.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-582">
@@ -836,15 +843,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08_day/子绝父相.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="55" column="51" lean-forward="true" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08_day/新东方顶部导航.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="98" column="69" lean-forward="true" selection-start-line="98" selection-start-column="69" selection-end-line="98" selection-end-column="69" />
+        <state relative-caret-position="2421">
+          <caret line="192" column="140" lean-forward="true" selection-start-line="192" selection-start-column="140" selection-end-line="192" selection-end-column="140" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_day/实战演习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
