@@ -1,0 +1,506 @@
+<!--
+
+                     _                         _             
+                                        (_)                       | |            
+                     __ _   __ _ __   __ _  _ __    ___  ___    __| |  ___  _ __ 
+                    / _` | / _` |\ \ / /| || '_ \  / __|/ _ \  / _` | / _ \| '__|
+                   | (_| || (_| | \ V / | || | | || (__| (_) || (_| ||  __/| |   
+                    \__, | \__,_|  \_/  |_||_| |_| \___|\___/  \__,_| \___||_|   
+                     __/ |                                                       
+                    |___/  
+
+
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Seekhub</title>
+    <link rel="stylesheet" href="Seekhub.css" type="text/css">
+</head>
+<body>
+<!--头部导航-->
+<div style="width: 100%;height:60px; background-color: #24292E;" id="header">
+    <div class="header">
+        <img src="img\logo.png" alt="Seekhub">
+        <li class="header_logo_word"><span>Seek</span><span>hub</span></li>
+        <ul class="header_content">
+            <li><a href="inedx.html" target="_blank">首页</a></li>
+            <li><a href="https://blog.csdn.net/weixin_39200308" target="_blank">CSDN</a></li>
+            <li><a href="https://github.com/xunyegege" target="_blank">Github</a></li>
+            <li><a href="http://106.15.90.2/" target="_blank">个人博客</a></li>
+            <li><a href="ours.html" target="_blank">关于我们</a></li>
+
+        </ul>
+
+
+        <!-- <div class="weather">
+             <iframe allowtransparency="true" frameborder="0" width="300"
+                     height="28" scrolling="no"
+                     src="https://tianqi.2345.com/plugin/widget/index.htm?s=3&z=1&t=1&v=0&d=1&bd=0&k=&f=&q=1&e=1&a=1&c=54511&w=300&h=28&align=center">
+
+             </iframe>
+         </div>-->
+        <form action="http://www.baidu.com/baidu" target="_blank" class="searcher">
+            <table bgcolor="#24292E">
+                <tr>
+                    <td>
+                        <!--<input name=tn type=hidden value=baidu>-->
+                        <!--<a href="http://www.baidu.com/">-->
+                        <!--     <img src="https://gss0.bdstatic.com/70cFsjip0QIZ8tyhnq/img/logo-80px.gif" alt="Baidu"
+                                 align="bottom" border="0" style="height: 40px;vertical-align: middle;opacity: 0.8;">-->
+                        </a>
+                        <input type=text name=word size=30 placeholder="Search or Jump to"
+                               style="vertical-align: middle;height: 36px;text-align:center;margin-left: 6px;background-color:#3F4448;border:thin #3F4448;border-radius: 5px; color: rgba(233,233,233,0.8);">
+                        <!--<input type="submit" value="百度搜索">-->
+                    </td>
+                </tr>
+            </table>
+        </form>
+
+    </div>
+</div>
+<!--头部导航——end！-->
+
+<!--轮播图--begin！-->
+<div class="sildeshow" id="sildeshow">
+    <div class="photo" id="photo">
+        <!--//1-->
+        <input type="radio" name="btn" id="img1" checked/>
+        <div class="control">
+            <div class="image"><img src="img/lover.jpg" style="height: 550px;width: 100%;"/></div>
+            <div class="nav">
+                <label for="img6" class="up leftjianbian">《</label>
+                <label for="img2" class="down rightjianbian">》</label>
+            </div>
+        </div>
+
+
+        <!--//2-->
+        <input type="radio" name="btn" id="img2"/>
+        <div class="control">
+            <div class="image"><img src="img/lover.jpg" style="height: 550px;width: 100%;"/></div>
+            <div class="nav">
+                <label for="img1" class="up leftjianbian">《</label>
+                <label for="img3" class="down rightjianbian">》</label>
+            </div>
+        </div>
+        <!--//3-->
+        <input type="radio" name="btn" id="img3"/>
+        <div class="control">
+            <div class="image"><img src="img/lover.jpg" style="height: 550px;width: 100%;"/></div>
+            <div class="nav">
+                <label for="img2" class="up leftjianbian">《</label>
+                <label for="img4" class="down rightjianbian">》</label>
+            </div>
+        </div>
+        <!--//4-->
+        <input type="radio" name="btn" id="img4"/>
+        <div class="control">
+            <div class="image"><img src="img/lover.jpg" style="height: 550px;width: 100%;"/></div>
+            <div class="nav">
+                <label for="img3" class="up leftjianbian">《</label>
+                <label for="img5" class="down rightjianbian">》</label>
+            </div>
+        </div>
+        <!--//5-->
+        <input type="radio" name="btn" id="img5"/>
+        <div class="control">
+            <div class="image"><img src="img/lover.jpg" style="height: 550px;width: 100%;"/></div>
+            <div class="nav">
+                <label for="img4" class="up leftjianbian">《</label>
+                <label for="img6" class="down rightjianbian">》</label>
+            </div>
+        </div>
+        <!--//6-->
+        <input type="radio" name="btn" id="img6"/>
+        <div class="control">
+            <div class="image"><img src="img/广告位招租.jpg" style="height: 550px;width: 100%;"/></div>
+            <div class="nav">
+                <label for="img5" class="up leftjianbian">《</label>
+                <label for="img1" class="down rightjianbian">》</label>
+            </div>
+        </div>
+
+
+        <div class="dots">
+            <label for="img1" class="dot" id="dot1"></label>
+            <label for="img2" class="dot" id="dot2"></label>
+            <label for="img3" class="dot" id="dot3"></label>
+            <label for="img4" class="dot" id="dot4"></label>
+            <label for="img5" class="dot" id="dot5"></label>
+            <label for="img6" class="dot" id="dot6"></label>
+        </div>
+
+
+    </div>
+
+</div>
+
+
+<div class="content">
+
+    <div class="content_div">
+        <!--  第一个content开始   -->
+
+        <div class="content_div1"><!--content第一个大盒子-->
+            <div class="content_div1_leftdiv"><!--左盒子-->
+                <div class="content_div1_leftdiv_img">
+
+
+                    <img src="img/lover.jpg" height="240" width="300"/></div>
+                <div class="content_div1_leftdiv_info">
+                    <h3>码农生活 </h3>
+                    <h5>CSDN </h5>
+                    <p>CSDN，中文IT知识服务集团，业务有IT信息传播、技术交流、教育培训和专业技术人才服务。旗下有网络社区、学习平台和交流平台。技术期刊《程序员》创办方。</p>
+
+                </div>
+            </div>
+            <div class="content_div1_rightdiv"><!--右盒子-->
+                <table class="content_div1_rightdiv_table"><!--列表内容如下-->
+                    <tr>
+                        <td><a href="http://jwxt.jit.edu.cn/" target="_blank">金科教务</a></td>
+                        <td><a href="https://www.kuaidi100.com/" target="_blank">快递查询 </a></td>
+                        <td><a href="https://mail.qq.com/" target="_blank"> QQ邮箱</a></td>
+                        <td><a href="https://pan.baidu.com/" target="_blank"> 百度网盘 </a></td>
+                        <td><a href="https://www.weiyun.com/" target="_blank"> 微云 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://blog.csdn.net" target="_blank">CSDN博客</a></td>
+                        <td><a href="https://leetcode-cn.com/" target="_blank">领扣代码</a></td>
+                        <td><a href="http://bestcbooks.com/" target="_blank">计算机书库</a></td>
+                        <td><a href="http://www.codeforge.cn/codes" target="_blank">源代码社区</a></td>
+                        <td><a href="http://edu.appcan.cn/" target="_blank">APP开发</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.php.cn/" target="_blank">php交流</a></td>
+                        <td><a href="http://www.xuanfengge.com/" target="_blank">轩枫阁前端</a></td>
+                        <td><a href="https://www.oschina.net/" target="_blank">开源社区</a></td>
+                        <td><a href="http://www.lanrenzhijia.com/js/css3/" target="_blank">CSS特效</a></td>
+                        <td><a href="https://spring.io/" target="_blank">sping共享</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.ipo100.cn/xm2/" target="_blank">创业计划书</a></td>
+                        <td><a href="http://www.w3school.com.cn/" target="_blank">W3school</a></td>
+                        <td><a href="http://www.runoob.com/" target="">菜鸟教程</a></td>
+                        <td><a href="http://www.tukkk.com/" target="_blank">小语种学习</a></td>
+                        <td><a href="http://www.jianshu.com/" target="_blank">简书创作</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--第一个content结束-->
+
+
+        <!--  第二个content开始   -->
+        <div class="content_div2"><!--content第二个大盒子-->
+            <div class="content_div2_leftdiv">
+                <div class="content_div2_leftdiv_img">
+
+                    <img src="img/lover.jpg" height="240" width="300"/>
+                </div>
+                <div class="content_div2_leftdiv_info">
+                    <h3>影视直播 </h3>
+                    <h5>虎牙</h5>
+                    <p>虎牙直播是中国一家以游戏直播为主的视频直播网站。网站以YY直播为名创建于2011年，隶属于欢聚时代，2014年11月24日更名为虎牙直播，开始独立运营。</p>
+
+                </div>
+            </div>
+
+
+            <div class="content_div2_rightdiv">
+                <table class="content_div2_rightdiv_table">
+                    <tr>
+                        <td><a href="https://www.douyu.com/" target="_blank">斗鱼 </a></td>
+                        <td><a href="http://www.huya.com/" target="_blank">虎牙 </a></td>
+                        <td><a href="https://www.panda.tv/" target="_blank">熊猫TV </a></td>
+                        <td><a href="http://www.yy.com/" target="_blank">YY</a></td>
+                        <td><a href="http://tdve.bitdbitd.com/" target="_blank">bitdbitd直播 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.dygod.net/" target="_blank">电影天堂 </a></td>
+                        <td><a href="http://www.btbtt.me/" target="_blank">BT之家 </a></td>
+                        <td><a href="https://www.bitdbitd.com/" target="_blank">bitdbitd</a></td>
+                        <td><a href="http://www.jlpzj.net/" target="_blank">纪录片之家</a></td>
+                        <td><a href="http://www.shiting5.com/tv/hunanweishi.html" target="_blank">湖南卫视</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://tdve.jstv.com/" target="_blank">江苏卫视</a></td>
+                        <td><a href="http://tv.cztv.com/tdve1" target="_blank">浙江卫视</a></td>
+                        <td><a href="http://tv.cctv.com/tdve/cctv1/" target="_blank">CCTV全直播 </a></td>
+                        <td><a href="http://gaoqing.la/" target="_blank">中国高清网 </a></td>
+                        <td><a href="http://www.yinfans.com/" target="_blank">音范丝</a></td>
+                    </tr>
+                    <td><a href="http://www.gaoqingkong.com/" target="_blank">高清控联盟</a></td>
+                    <td><a href="http://www.dygang.net/" target="_blank">电影港</a></td>
+                    <td><a href="https://www.piaohua.com/" target="_blank">飘花电影</a></td>
+                    <td><a href="https://www.xiaohx.org/" target="_blank">小浣熊</a></td>
+                    <td><a href="https://www.yugaopian.cn/" target="_blank">预告片世界</a></td>
+                </table>
+            </div>
+        </div>
+        <!--第二个content结束-->
+
+
+        <!--  第三个content开始   -->
+        <div class="content_div3"><!--content第三个大盒子-->
+            <div class="content_div3_leftdiv">
+                <div class="content_div3_leftdiv_img">
+
+
+                    <img src="img/lover.jpg" height="240" width="300"/></div>
+                <div class="content_div3_leftdiv_info">
+                    <h3>软件工具</h3>
+                    <h5>小众软件</h5>
+                    <p>由小众软件读者评选得出优秀的软件，分门别类，总有你喜欢的软件.</p>
+
+                </div>
+            </div>
+            <div class="content_div3_rightdiv">
+                <table class="content_div3_rightdiv_table">
+                    <tr>
+                        <td><a href="https://www.appinn.com/" target="_blank">小众软件</a></td>
+                        <td><a href="https://www.portablesoft.org/" target="_blank">精品绿色软件</a></td>
+                        <td><a href="http://www.lrshare.com/" target="_blank">绿软分享吧</a></td>
+                        <td><a href="https://www.appcgn.com/" target="_blank">软件缘</a></td>
+                        <td><a href="http://forum.portableappc.com/" target="_blank">便携软件</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.v5pc.com/" target="_blank">V5PC绿软</a></td>
+                        <td><a href="https://xbeta.info/" target="_blank">善用佳软</a></td>
+                        <td><a href="http://www.bokeboke.net/" target="_blank">爱软客</a></td>
+                        <td><a href="http://www.wsf1234.com/" target="_blank">风刑软件站</a></td>
+                        <td><a href="http://goudidiao.com/" target="_blank">vip视频解析</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://dwz.waitdan.work/" target="_blank">短网址生成</a></td>
+                        <td><a href="http://tool.mkblog.cn/" target="_blank">孟坤工具箱</a></td>
+                        <td><a href="https://uzer.me/" target="_blank">在线云应用uzer</a></td>
+                        <td><a href="https://convertio.co/zh/" target="_blank">在线文件转换器</a></td>
+                        <td><a href="https://www.ageeye.cn/" target="_blank">地图制作分享</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.cnplugins.com/" target="_blank">chrome插件网</a></td>
+                        <td><a href="https://cn.office-converter.com/" target="_blank">文件转换器</a></td>
+                        <td><a href="http://www.zdfans.com/6925.html" target="_blank">Adobe系列破解</a></td>
+                        <td><a href="http://www.zdfans.com/2262.html" target="_blank">小马激活最终版</a></td>
+                        <td><a href="https://cmwtat.cloudmoe.com/cn.html" target="_blank">云萌win10激活</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--第三个content结束-->
+
+
+        <!--  第四个content开始   -->
+        <div class="content_div4"><!--content第四个大盒子-->
+            <div class="content_div4_leftdiv">
+                <!--<div class=" content_div4_leftdiv_topdov">
+					<span>
+					模板素材
+					</span>
+                </div>
+                <div class="content_div4_leftdiv_bottomdiv">
+                    &lt;!&ndash;动画效果&ndash;&gt;
+                </div>-->
+                <div class="content_div4_leftdiv_img">
+
+
+                    <img src="img/lover.jpg" height="240" width="300"/></div>
+                <div class="content_div4_leftdiv_info">
+                    <h3>设计素材</h3>
+                    <h5>千图网 </h5>
+                    <p>千图网是专注免费设计素材下载的网站！提供矢量图素材,矢量背景图片,矢量图库,还有psd素材,PS素材,设计模板,设计素材,PPT素材,以及网页素材</p>
+
+                </div>
+
+
+            </div>
+            <div class="content_div4_rightdiv">
+                <table class="content_div4_rightdiv_table">
+                    <tr>
+                        <td><a href="http://pngimg.com/" target="_blank"> PNG透明素材 </a></td>
+                        <td><a href="http://www.58pic.com/" target="_blank"> 千图网 </a></td>
+                        <td><a href="http://588ku.com/" target="_blank"> 千库网 </a></td>
+                        <td><a href="https://foodiesfeed.com/" target="_blank"> 食物 foodiesfeed </a></td>
+                        <td><a href="http://www.cutestpaw.com/" target="_blank"> 宠物 cutestpaw </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://psiupuxa.com/" target="_blank"> 太空壁纸 </a></td>
+                        <td><a href="https://www.netcarshow.com/" target="_blank"> 汽车壁纸 </a></td>
+                        <td><a href="http://www.haotu.net/" target="_blank"> 好图网图标 </a></td>
+                        <td><a href="http://www.tretars.com/" target="_blank"> 逼格ppt </a></td>
+                        <td><a href="http://www.1ppt.com/" target="_blank"> 第1PPT </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.ypppt.com/" target="_blank"> 优品PPT </a></td>
+                        <td><a href="http://www.pptfans.cn/pptmuban" target="_blank"> PPTfans </a></td>
+                        <td><a href="http://tdst.docer.com/PPT模板/" target="_blank"> 稻壳儿 </a></td>
+                        <td><a href="http://www.pptstore.net/ppt_moban/?opt=free" target="_blank"> PPTstore </a></td>
+                        <td><a href="http://www.51pptmoban.com/" target="_blank"> 51ppt模板 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.pptschool.com/" target="_blank"> PPT大学 </a></td>
+                        <td><a href="http://www.rapidbbs.cn/" target="_blank"> 锐普ppt </a></td>
+                        <td><a href="http://www.51ppt.com.cn/" target="_blank"> 无忧ppt </a></td>
+                        <td><a href="http://www.zhaogeppt.com/pptmuban/" target="_blank"> 找个PPT </a></td>
+                        <td><a href="http://iloveppt.cn/" target="_blank"> 我爱ppt </a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--第四个content结束-->
+
+
+        <!--  第五个content开始   -->
+        <div class="content_div5"><!--content第五个大盒子-->
+            <div class="content_div5_leftdiv">
+                <div class="content_div5_leftdiv_img">
+
+
+                    <img src="img/lover.jpg" height="240" width="300"/></div>
+                <div class="content_div5_leftdiv_info">
+                    <h3>在线学习 </h3>
+                    <h5>慕课网</h5>
+                    <p>慕课网（IMOOC）是IT技能学习平台。慕课网(IMOOC)提供了丰富的移动端开发、php开发、web前端、android开发以及html5等视频教程资源公开课。并且富有交互性</p>
+                </div>
+            </div>
+            <div class="content_div5_rightdiv">
+                <table class="content_div5_rightdiv_table">
+                    <tr>
+                        <td><a href="https://www.imooc.com/" target="_blank"> 慕课网 </a></td>
+                        <td><a href="http://study.163.com/" target="_blank"> 网易云课堂 </a></td>
+                        <td><a href="https://www.icourse163.org/" target="_blank"> 中国大学MOOC </a></td>
+                        <td><a href="https://www.shiyanlou.com/courses/" target="_blank"> 实验楼 </a></td>
+                        <td><a href="https://ke.qq.com/" target="_blank"> 腾讯课堂 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://open.163.com/" target="_blank"> 网易公开课 </a></td>
+                        <td><a href="https://www.jisuanke.com/" target="_blank"> 计蒜客 </a></td>
+                        <td><a href="https://mooc.guokr.com/" target="_blank"> MOOC学院 </a></td>
+                        <td><a href="https://weibo.com/719656790" target="_blank"> 每日考研笔记 </a></td>
+                        <td><a href="https://weibo.com/media2015" target="_blank"> 传媒小哥 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://weibo.com/u/2091076344" target="_blank"> 资源分享库 </a></td>
+                        <td><a href="https://weibo.com/u/5359434969" target="_blank"> 考虫考研萌酱 </a></td>
+                        <td><a href="https://weibo.com/s1002297748" target="_blank"> 文艺君考研 </a></td>
+                        <td><a href="https://weibo.com/u/5372911673" target="_blank"> 找研友吧 </a></td>
+                        <td><a href="https://weibo.com/kyqq" target="_blank"> 考研资源库 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.zreading.cn/" target="_blank"> 左岸读书 </a></td>
+                        <td><a href="http://www.read.org.cn/" target="_blank"> 战隼学习探索 </a></td>
+                        <td><a href="http://www.ireadweek.com/" target="_blank"> 周读 </a></td>
+                        <td><a href="http://ibooks.org.cn/" target="_blank"> 读书小站 </a></td>
+                        <td><a href="http://www.write.org.cn/" target="_blank"> 读书笔记分享 </a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--第五个content结束-->
+
+
+        <!--  第六个content开始   -->
+        <div class="content_div6"><!--conten第六个大盒子-->
+            <div class="content_div6_leftdiv">
+                <div class="content_div6_leftdiv_img">
+
+
+                    <img src="img/lover.jpg" height="240" width="300"/></div>
+                <div class="content_div6_leftdiv_info">
+                    <h3>时事音乐</h3>
+                    <h5>今日头条</h5>
+                    <p>今日头条自称是一款基于数据挖掘的推荐引擎产品，它由中国互联网创业者张一鸣于2012年3月创建，于2012年8月发布第一个版本，截至2015年12月，今日头条自称累计拥有激活用户3.5亿，日活跃度超过3500万。</p>
+
+                </div>
+            </div>
+            <div class="content_div6_rightdiv">
+                <table class="content_div6_rightdiv_table">
+
+                    <tr>
+                        <td><a href="http://www.ce.cn/" target="_blank"> 中国经济网 </a></td>
+                        <td><a href="https://www.toutiao.com/" target="_blank"> 今日头条 </a></td>
+                        <td><a href="http://news.163.com/" target="_blank"> 网易新闻 </a></td>
+                        <td><a href="http://www.xinhuanet.com/" target="_blank"> 新华网 </a></td>
+                        <td><a href="http://news.qq.com/" target="_blank"> 腾讯新闻 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.moofeel.com/" target="_blank"> 磨坊音乐 </a></td>
+                        <td><a href="http://www.88tdu.com/" target="_blank"> 88六音乐 </a></td>
+                        <td><a href="http://www.pt80.net/forum.php?gid=89" target="_blank"> 捌零音乐 </a></td>
+                        <td><a href="http://www.zasv.net/forum-44-1.html" target="_blank"> 杂碎后院 </a></td>
+                        <td><a href="http://www.cdbao.net/" target="_blank"> CD包音乐网 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.eacdy.com/forum-124-1.html" target="_blank"> 音艾论坛 </a></td>
+                        <td><a href="https://trix360.com/forum.php" target="_blank"> trix360 </a></td>
+                        <td><a href="http://www.deepms.net/" target="_blank"> 深度无损音乐 </a></td>
+                        <td><a href="http://www.yinyuetai.com/" target="_blank"> 音悦台 </a></td>
+                        <td><a href="http://tool.mkblog.cn/yinyuetai/" target="_blank"> 音悦台MV解析 </a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://www.170mv.com/" target="_blank"> 170MV </a></td>
+                        <td><a href="http://www.truemv.com/" target="_blank"> 真乐网 </a></td>
+                        <td><a href="http://www.dlkoo.com/down/6/" target="_blank"> 大连生活-MV </a></td>
+                        <td><a href="http://www.zhuyin.com/" target="_blank"> 主音高清 </a></td>
+                        <td><a href="http://www.xiazaimv.com/forum.php" target="_blank"> SQHD </a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--第六个content结束-->
+    </div>
+
+</div>
+
+
+<!-- ------侧栏导航条----begin-->
+<!--
+<div class="fixed_all">
+    <ul class="fixed_ul">
+        <li>< a href=" ">购物生活</a></li>
+        <li>< a href="#content_div2_ul1_li1">直播影视</a></li>
+        <li>< a href="#content_div3_ul1_li1">软件工具</a></li>
+        <li>< a href="#content_div4_ul1_li1">模板素材</a></li>
+        <li>< a href="#content_div5_ul1_li1">学习天地</a></li>
+        <li>< a href="#content_div6_ul1_li1">音乐新闻</a></li>
+    </ul>
+</div>
+-->
+
+<!--侧栏导航条-------end-->
+
+<!--底部版权信息-  begin -->
+
+
+<div class="foot">
+    <div class="foot_content">
+
+        <div class="foot_logo">
+
+            <img src="img/logo.png" height="25px" style="vertical-align: middle;"/>
+        </div>
+        <div class="foot_span">
+            <span> &copy;2018  &nbsp; <span>Seek</span>hub , blog</span>
+        </div>
+
+        <div class="foot_info">
+            <ul>
+                <li><a href="https://blog.csdn.net/weixin_39200308" target="_blank">CSDN</a></li>
+                <li><a href="https://github.com/xunyegege" target="_blank">Github</a></li>
+                <li><a href="http://106.15.90.2/" target="_blank">Blog</a></li>
+                <li><a href="ours.html">About me</a></li>
+
+            </ul>
+        </div>
+    </div>
+
+
+</div>
+
+
+<!--底部版权信息----;end-->
+
+</body>
+</html>
