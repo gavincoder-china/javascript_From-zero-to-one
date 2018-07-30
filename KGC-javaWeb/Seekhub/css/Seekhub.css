@@ -58,6 +58,11 @@ a{
 
   target-new: window;
 }
+.content   a:hover{
+
+    color: #639BF6;
+
+}
 /*
 .header a:hover{
 

@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Seekhub/about_us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seekhub/img/back_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seekhub/img/logo_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_day/练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_day/练习2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_day/ilxdh.com/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/10_day/ilxdh.com/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/Seekhub.css" beforeDir="false" afterPath="$PROJECT_DIR$/Seekhub/Seekhub.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/inedx.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seekhub/inedx.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/导航网站/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/导航网站/css/Seekhub.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/导航网站/html/Seekhub.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/导航网站/html/ours.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seekhub/导航网站/img/800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seekhub/Seekhub.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seekhub/inedx.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,14 +21,14 @@
     <session id="1125121303">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="4" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.13" value="6" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,29 +36,29 @@
           <entry key="bmp" value="1" />
           <entry key="css" value="5" />
           <entry key="htm" value="2" />
-          <entry key="html" value="32" />
+          <entry key="html" value="35" />
           <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="34" />
+          <entry key="HTML" value="37" />
           <entry key="Image" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3142" />
+          <entry key="css" value="3165" />
           <entry key="htm" value="1" />
-          <entry key="html" value="5380" />
+          <entry key="html" value="5688" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3142" />
-          <entry key="HTML" value="5381" />
+          <entry key="CSS" value="3165" />
+          <entry key="HTML" value="5689" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
@@ -73,50 +66,23 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Seekhub/Seekhub.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Seekhub/inedx.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="433" column="82" lean-forward="true" selection-start-line="433" selection-start-column="82" selection-end-line="433" selection-end-column="82" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#11;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\github\javascript_From-zero-to-one\KGC-javaWeb\10_day</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -128,9 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04 day/网易邮箱登录界面.html" />
-        <option value="$PROJECT_DIR$/04 day/网易邮箱登录界面优化.html" />
-        <option value="$PROJECT_DIR$/04 day/css.html" />
         <option value="$PROJECT_DIR$/04 day/望庐山瀑布css.css" />
         <option value="$PROJECT_DIR$/04 day/制作望庐山瀑布.html" />
         <option value="$PROJECT_DIR$/04 day/表格奇数偶数行换色.html" />
@@ -179,6 +142,9 @@
         <option value="$PROJECT_DIR$/Seekhub/about_us.html" />
         <option value="$PROJECT_DIR$/Seekhub/Seekhub.css" />
         <option value="$PROJECT_DIR$/Seekhub/inedx.html" />
+        <option value="$PROJECT_DIR$/Seekhub/index.html" />
+        <option value="$PROJECT_DIR$/10_day/练习2.html" />
+        <option value="$PROJECT_DIR$/10_day/练习.html" />
       </list>
     </option>
   </component>
@@ -209,11 +175,6 @@
               <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Seekhub" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,7 +189,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jiyuanime.ui.Setting" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -296,6 +257,13 @@
       <workItem from="1532573815832" duration="20200000" />
       <workItem from="1532611245689" duration="1198000" />
       <workItem from="1532651473761" duration="13691000" />
+      <workItem from="1532674081974" duration="613000" />
+      <workItem from="1532675419843" duration="610000" />
+      <workItem from="1532702130302" duration="468000" />
+      <workItem from="1532711514373" duration="23000" />
+      <workItem from="1532742049392" duration="726000" />
+      <workItem from="1532872245855" duration="633000" />
+      <workItem from="1532910640514" duration="889000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -469,7 +437,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="231207000" />
+    <option name="totallyTimeSpent" value="235169000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,7 +450,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17448777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -569,27 +536,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="css 浮动&amp;定位" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05 day/制作开心庄园页面.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 day/开心庄园css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04 day/制作爱奇艺播放列表.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05 day/121.css" />
     <entry file="file://$PROJECT_DIR$/05 day/01 上机练习素材-3/练习5：制作畅销书排行榜/图片素材/book_no01.gif">
       <provider selected="true" editor-type-id="images" />
@@ -839,9 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2583">
           <caret line="123" column="7" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,39 +799,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seekhub/Seekhub.css" />
+    <entry file="file://$PROJECT_DIR$/Seekhub/inedx.html" />
+    <entry file="file://$PROJECT_DIR$/Seekhub/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seekhub/Seekhub.css">
+    <entry file="file://$PROJECT_DIR$/10_day/练习2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        <state relative-caret-position="678">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Seekhub/inedx.html">
+    <entry file="file://$PROJECT_DIR$/10_day/练习.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="433" column="82" lean-forward="true" selection-start-line="433" selection-start-column="82" selection-end-line="433" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#11;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
