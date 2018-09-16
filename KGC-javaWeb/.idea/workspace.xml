@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943de19b-6c63-48f0-a293-63574aa4ffc1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/demo1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/KGC-javaWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KGC-javaWeb.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../前端知识点-精华.md" beforeDir="false" afterPath="$PROJECT_DIR$/../前端知识点-精华.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,20 +19,21 @@
     <session id="1125121303">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="7" />
+          <entry key="project.open.time.13" value="11" />
           <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="9" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="35" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,7 +41,7 @@
           <entry key="bmp" value="1" />
           <entry key="css" value="8" />
           <entry key="htm" value="2" />
-          <entry key="html" value="40" />
+          <entry key="html" value="42" />
           <entry key="js" value="1" />
           <entry key="png" value="2" />
           <entry key="vmoptions" value="1" />
@@ -50,7 +50,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="8" />
-          <entry key="HTML" value="42" />
+          <entry key="HTML" value="44" />
           <entry key="Image" value="3" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -60,7 +60,7 @@
         <counts>
           <entry key="css" value="3183" />
           <entry key="htm" value="1" />
-          <entry key="html" value="5805" />
+          <entry key="html" value="5838" />
           <entry key="js" value="544" />
           <entry key="txt" value="11" />
           <entry key="vmoptions" value="8" />
@@ -69,23 +69,33 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="3183" />
-          <entry key="HTML" value="5806" />
+          <entry key="HTML" value="5839" />
           <entry key="JavaScript" value="544" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Seekhub/index.html">
+        <entry file="file://$PROJECT_DIR$/../web/gitnavi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="54" column="108" lean-forward="true" selection-start-line="54" selection-start-column="108" selection-end-line="54" selection-end-column="108" />
+            <state relative-caret-position="-2714">
+              <caret line="53" column="145" lean-forward="true" selection-start-line="53" selection-start-column="145" selection-end-line="53" selection-end-column="145" />
               <folding>
-                <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#404795#404800#0" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#b#0;n#span#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#856162#856168#0" expanded="true" />
+                <element signature="e#856168#856174#0" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#b#0;n#span#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#856394#856400#0" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05 day/123.html" />
-        <option value="$PROJECT_DIR$/04 day/制作爱奇艺播放列表.html" />
         <option value="$PROJECT_DIR$/05 day/开心庄园css.css" />
         <option value="$PROJECT_DIR$/05 day/制作开心庄园页面.html" />
         <option value="$PROJECT_DIR$/05 day/京东新闻css.css" />
@@ -171,6 +179,8 @@
         <option value="$PROJECT_DIR$/js/demo1.html" />
         <option value="$PROJECT_DIR$/js/demo1.js" />
         <option value="$PROJECT_DIR$/Seekhub/index.html" />
+        <option value="$PROJECT_DIR$/test/test.html" />
+        <option value="$PROJECT_DIR$/../web/gitnavi/index.html" />
       </list>
     </option>
   </component>
@@ -180,8 +190,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-70" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="25" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -189,12 +200,37 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="KGC-javaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="G:\github\javascript_From-zero-to-one\web" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="KGC-javaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="G:\github\javascript_From-zero-to-one\web" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="gitnavi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KGC-javaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KGC-javaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,11 +238,11 @@
     <property name="SearchEverywhereHistoryKey" value="content&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -310,6 +346,12 @@
       <workItem from="1533802027617" duration="335000" />
       <workItem from="1533802387281" duration="215000" />
       <workItem from="1534324671328" duration="1295000" />
+      <workItem from="1535809782338" duration="57000" />
+      <workItem from="1536221053832" duration="598000" />
+      <workItem from="1536657243313" duration="40000" />
+      <workItem from="1536670173875" duration="717000" />
+      <workItem from="1537070577673" duration="572000" />
+      <workItem from="1537071319144" duration="3097000" />
     </task>
     <task id="LOCAL-00001" summary="xml">
       <created>1531789615809</created>
@@ -483,7 +525,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264932000" />
+    <option name="totallyTimeSpent" value="270013000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -495,10 +537,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12888302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12888302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -583,20 +625,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="css 浮动&amp;定位" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05 day/制作畅销书排行榜.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="44" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05 day/北大青鸟课程介绍页面制作.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05 day/北大青鸟css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -875,12 +903,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Seekhub/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="54" column="108" lean-forward="true" selection-start-line="54" selection-start-column="108" selection-end-line="54" selection-end-column="108" />
+        <state relative-caret-position="23">
+          <caret line="114" column="14" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/gitnavi/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2714">
+          <caret line="53" column="145" lean-forward="true" selection-start-line="53" selection-start-column="145" selection-end-line="53" selection-end-column="145" />
           <folding>
-            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#404795#404800#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#b#0;n#span#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#856162#856168#0" expanded="true" />
+            <element signature="e#856168#856174#0" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#b#0;n#span#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#856394#856400#0" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

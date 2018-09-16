@@ -1,0 +1,1 @@
+$(function(){$("#bar3").xq_navbar({type:"line",liwidth:"avg",bgcolor:"#fff"});var a=1;var b=$(".zzsc li");var c=100/b.length+"%";b.css("width",c);if(a==0){b.hover(function(){$(".second",this).css("top","36px").show()},function(){$(".second",this).hide()})}else{if(a==1){b.hover(function(){$(".second",this).css("bottom","36px").show()},function(){$(".second",this).hide()})}}});

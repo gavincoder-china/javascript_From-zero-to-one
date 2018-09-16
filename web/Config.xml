@@ -1,0 +1,15 @@
+﻿<Configuration>
+	<Settings>
+		<ByReference>0</ByReference>
+		<TimeOut>0</TimeOut>
+		<PageCoding>0</PageCoding>
+		<CssCoding>0</CssCoding>
+		<HtmlFilePath>/</HtmlFilePath>
+		<HtmlFileName>Index.html</HtmlFileName>
+		<FlashFilePath>/flash/</FlashFilePath>
+		<CssFilePath>/css/</CssFilePath>
+		<JsFilePath>/js/</JsFilePath>
+		<BackgroundImageFilePath>/images/</BackgroundImageFilePath>
+		<PictureFilePath>/picture/</PictureFilePath>
+	</Settings>
+</Configuration>
