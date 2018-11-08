@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javascript_From-zero-to-one.iml" filepath="$PROJECT_DIR$/.idea/javascript_From-zero-to-one.iml" />
     </modules>
   </component>
 </project>
-
