@@ -1,0 +1,316 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/codeStyles/desktop.ini
+.idea/desktop.ini
+.idea/inspectionProfiles/
+Charts_view/Chapter1/Flotr2-master/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/images/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/js/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/js/examples/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/demo/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/doc/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/keymap/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/lib/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/lib/util/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/clike/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/clojure/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/coffeescript/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/css/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/diff/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/gfm/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/groovy/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/haskell/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/htmlembedded/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/htmlmixed/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/javascript/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/jinja2/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/lua/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/markdown/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/ntriples/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/pascal/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/perl/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/php/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/plsql/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/python/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/r/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/rpm/changes/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/rpm/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/rpm/spec/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/rst/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/ruby/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/rust/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/scheme/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/smalltalk/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/sparql/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/stex/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/tiddlywiki/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/velocity/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/xml/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/xmlpure/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/mode/yaml/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/test/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/codemirror/theme/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/lib/desktop.ini
+Charts_view/Chapter1/Flotr2-master/examples/old_examples/desktop.ini
+Charts_view/Chapter1/Flotr2-master/js/amd/desktop.ini
+Charts_view/Chapter1/Flotr2-master/js/desktop.ini
+Charts_view/Chapter1/Flotr2-master/js/plugins/desktop.ini
+Charts_view/Chapter1/Flotr2-master/js/types/desktop.ini
+Charts_view/Chapter1/Flotr2-master/lib/desktop.ini
+Charts_view/Chapter1/Flotr2-master/lib/jasmine/desktop.ini
+Charts_view/Chapter1/Flotr2-master/make/desktop.ini
+Charts_view/Chapter1/Flotr2-master/spec/desktop.ini
+Charts_view/Chapter1/Flotr2-master/spec/helpers/desktop.ini
+Charts_view/Chapter1/Flotr2-master/spec/images/desktop.ini
+Charts_view/Chapter1/Flotr2-master/spec/img/desktop.ini
+Charts_view/Chapter1/Flotr2-master/spec/js/desktop.ini
+Charts_view/Chapter1/desktop.ini
+KGC-javaWeb/.idea/desktop.ini
+KGC-javaWeb/.idea/inspectionProfiles/
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2401\357\274\232\346\235\216\346\270\205\347\205\247\347\232\204\350\257\215/desktop.ini"
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2402\357\274\232\346\235\216\346\270\205\347\205\247\347\256\200\344\273\213/desktop.ini"
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2403\357\274\232\344\272\254\344\270\234\346\226\260\351\227\273\350\265\204\350\256\257\351\241\265/desktop.ini"
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2403\357\274\232\344\272\254\344\270\234\346\226\260\351\227\273\350\265\204\350\256\257\351\241\265/img/desktop.ini"
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2404\357\274\232\344\272\254\344\270\234\345\277\253\351\200\237\350\264\255\347\211\251\345\257\274\350\210\252/desktop.ini"
+"KGC-javaWeb/01 day/01  \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2404\357\274\232\344\272\254\344\270\234\345\277\253\351\200\237\350\264\255\347\211\251\345\257\274\350\210\252/image/desktop.ini"
+KGC-javaWeb/01 day/desktop.ini
+"KGC-javaWeb/01 day/\344\272\254\344\270\234\345\277\253\351\200\237\350\264\255\347\211\251\345\257\274\350\210\252/desktop.ini"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2401\357\274\232\347\203\255\351\227\250\346\264\273\345\212\250/desktop.ini"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2401\357\274\232\347\203\255\351\227\250\346\264\273\345\212\250/image/desktop.ini"
+"KG
+C-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2402\357\274\232\351\237\263\344\271\220\346\216\222\350\241\214\346\246\234/desktop.ini"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2402\357\274\232\351\237\263\344\271\220\346\216\222\350\241\214\346\246\234/image/desktop.ini"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2403\357\274\232 \344\275\277\347\224\250\350\241\250\346\240\274\345\210\266\344\275\234\346\265\201\351\207\217\346\237\245\350\257\242\350\241\250/desktop.ini"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2404\357\274\232\345\210\266\344\275\234\350\207\252\345\267\261\345\226\234\346\254\242\347\232\204\350\247\206\351\242\221\346\210\226\351\237\263\351\242\221\347\275\221\347\253\231/"
+"KGC-javaWeb/02 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2405\357\274\232 iframe\347\232\204\344\275\277\347\224\250/desktop.ini"
+KGC-javaWeb/02 day/desktop.ini
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2401\357\274\232\347\275\221\346\230\223\351\202\256\347\256\261\347\231\273\345\275\225\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2401\357\274\232\347\275\221\346\230\223\351\202\256\347\256\261\347\231\273\345\275\225\351\241\265\351\235\242/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2402\357\274\232\344\272\272\344\272\272\347\275\221\346\263\250\345\206\214\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2402\357\274\232\344\272\272\344\272\272\347\275\221\346\263\250\345\206\214\351\241\265\351\235\242/image/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2403\357\274\232\351\230\277\351\207\214\345\267\264\345\267\264\346\263\250\345\206\214\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2403\357\274\232\351\230\277\351\207\214\345\267\264\345\267\264\346\263\250\345\206\214\351\241\265\351\235\242/images/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2404\357\274\232 QQ\346\263\250\345\206\214\351\252\214\350\257\201/desktop.ini"
+"KGC-javaWeb/03 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-1/\347\273\203\344\271\2404\357\274\232 QQ\346\263\250\345\206\214\351\252\214\350\257\201/image/desktop.ini"
+KGC-javaWeb/03 day/desktop.ini
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2401\357\274\232\345\210\266\344\275\234\343\200\212\346\234\233\345\272\220\345\261\261\347\200\221\345\270\203\343\200\213/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2402\357\274\232\345\210\266\344\275\234\345\275\261\350\247\206\347\256\200\344\273\213/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2402\357\274\232\345\210\266\344\275\234\345\275\261\350\247\206\347\256\200\344\273\213/img/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2403\357\274\232\345\210\266\344\275\234\345\274\200\345\277\203\351\244\220\345\216\205\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2403\357\274\232\345\210\266\344\275\234\345\274\200\345\277\203\351\244\220\345\216\205\351\241\265\351\235\242/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2404\357\274\232\345\210\266\344\275\234\347\210\261\345\245\207\345\274\202\350\247\206\351\242\221\346\222\255\346\224\276\345\210\227\350\241\250/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2404\357\274\232\345\210\266\344\275\234\347\210\261\345\245\207\345\274\202\350\247\206\351\242\221\346\222\255\346\224\276\345\210\227\350\241\250/image/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2405\357\274\232\347\275\221\346\230\223\351\202\256\347\256\261\347\231\273\345\275\225\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2405\357\274\232\347\275\221\346\230\223\351\202\256\347\256\261\347\231\273\345\275\225\351\241\265\351\235\242/images/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2401\357\274\232\345\210\266\344\275\234\347\231\276\345\272\246\351\237\263\344\271\220\346\240\207\347\255\276\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2402\357\274\232\345\210\266\344\275\234\345\274\200\345\277\203\345\272\204\345\233\255\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2402\357\274\232\345\210\266\344\275\234\345\274\200\345\277\203\345\272\204\345\233\255\351\241\265\351\235\242/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2403\357\274\232\344\272\254\344\270\234\346\226\260\351\227\273\350\265\204\350\256\257\351\241\265/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2403\357\274\232\344\272\254\344\270\234\346\226\260\351\227\273\350\265\204\350\256\257\351\241\265/img/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2404\357\274\232\345\210\266\344\275\234\345\256\266\347\224\250\347\224\265\345\231\250\345\225\206\345\223\201\345\210\206\347\261\273\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2405\357\274\232\345\210\266\344\275\234\347\225\205\351\224\200\344\271\246\346\216\222\350\241\214\346\246\234/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2405\357
+\274\232\345\210\266\344\275\234\347\225\205\351\224\200\344\271\246\346\216\222\350\241\214\346\246\234/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/05 day/02 \344\275\234\344\270\232\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/05 day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2323\357\274\232\345\214\227\345\244\247\351\235\222\351\270\237\350\257\276\347\250\213\344\273\213\347\273\215/desktop.ini"
+"KGC-javaWeb/05 day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2323\357\274\232\345\214\227\345\244\247\351\235\222\351\270\237\350\257\276\347\250\213\344\273\213\347\273\215/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/05 day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2324\357\274\232\345\210\266\344\275\234\345\270\255\345\271\225\345\256\271\347\232\204\350\257\227/desktop.ini"
+"KGC-javaWeb/05 day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2325\357\274\232\345\210\266\344\275\234\346\267\230\345\256\235\345\245\263\350\243\205\345\210\206\347\261\273\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/05 day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2325\357\274\232\345\210\266\344\275\234\346\267\230\345\256\235\345\245\263\350\243\205\345\210\206\347\261\273\351\241\265\351\235\242/image5/desktop.ini"
+KGC-javaWeb/05 day/image5/desktop.ini
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2401\357\274\232\345\214\227\345\244\247\351\235\222\351\270\237\350\257\276\347\250\213\345\257\274\350\210\252/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2401\357\274\232\345\214\227\345\244\247\351\235\222\351\270\237\350\257\276\347\250\213\345\257\274\350\210\252/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2402\357\274\232\350\201\232\347\276\216\344\274\230\345\223\201\345\225\206\345\223\201\345\210\206\347\261\273/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2402\357\274\232\350\201\232\347\276\216\344\274\230\345\223\201\345\225\206\345\223\201\345\210\206\347\261\273/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2403\357\274\232\344\273\277\344\272\254\344\270\234\345\277\253\346\212\245/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2404\357\274\232\350\201\232\347\276\216\344\274\230\345\223\201\347\276\216\345\256\271\344\272\247\345\223\201\347\203\255\347\202\271/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2405\357\274\232\345\210\266\344\275\234\347\210\261\345\245\207\345\274\202\350\247\206\351\242\221\346\222\255\346\224\276\345\210\227\350\241\250/desktop.ini"
+"KGC-javaWeb/06_day/01_\344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-4/\347\273\203\344\271\2405\357\274\232\345\210\266\344\275\234\347\210\261\345\245\207\345\274\202\350\247\206\351\242\221\346\222\255\346\224\276\345\210\227\350\241\250/image/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2401\357\274\232QQ\344\274\232\345\221\230\351\241\265\351\235\242\345\257\274\350\210\252/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2401\357\274\232QQ\344\274\232\345\221\230\351\241\265\351\235\242\345\257\274\350\210\252/img/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2402\357\274\232\347\203\255\351\227\250\346\264\273\345\212\250/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2402\357\274\232\347\203\255\351\227\250\346\264\273\345\212\250/image/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2403\357\274\232\347\224\265\350\247\206\345\211\247\350\257\246\346\203\205\345\210\227\350\241\250/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2403\357\274\232\347\224\265\350\247\206\345\211\247\350\257\246\346\203\205\345\210\227\350\241\250/image/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2404\357\274\232 \344\273\277\344\272\254\344\270\234\345\225\206\345\237\216\347\231\273\345\275\225\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2404\357\274\232 \344\273\277\344\272\254\344\270\234\345\225\206\345\237\216\347\231\273\345\275\225\351\241\265\351\235\242/image/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2401\357\274\232\350\212\261\346\240\267\351\223\276\346\216\245\345\215\241/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2402\357\274\232\345\270\246\346\214\211\351\222\256\347\232\204\350\275\256\346\222\255\345\271\277\345\221\212/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2402\357\274\232\345\270\246\346\214\211\351\222\256\347\232\204\350\275\256\346\222\255\345\271\277\345\221\212/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2403\357\274\232\345\210\266\344\275\234\345\245\226\345\244\232\345\244\232\345\256\211\345\205\250\350\264\255\345\275\251\351\241\265\351\235\242/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2403\357\274\232\345\210\266\344\275\234\345\245\226\345\244\232\345\244\232\345\256\211\345\205\250\350\264\255\345\275\251\351\241\265\351\235\242/image/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2404\357\274\232\345\275\223\345\275\223\345\233\276\344\271\246\346\246\234/desktop.ini"
+"KGC-javaWeb/08_day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-6/\347\273\203\344\271\2404\357\274\232\345\275\223\345\275\223\345\233\276\344\271\246\346\246\234/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\27
+0\2323\357\274\232\347\276\216\351\243\237\344\273\212\346\227\245\346\216\250\350\215\220/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2323\357\274\232\347\276\216\351\243\237\344\273\212\346\227\245\346\216\250\350\215\220/image/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2324\357\274\232\344\272\254\344\270\234\351\246\226\351\241\265\350\275\256\346\222\255/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2324\357\274\232\344\272\254\344\270\234\351\246\226\351\241\265\350\275\256\346\222\255/image/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2325\357\274\232\346\226\260\344\270\234\346\226\271\351\241\266\345\257\274\350\210\252/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2325\357\274\232\346\226\260\344\270\234\346\226\271\351\241\266\345\257\274\350\210\252/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+KGC-javaWeb/08_day/img/desktop.ini
+KGC-javaWeb/09_day/desktop.ini
+KGC-javaWeb/09_day/images/desktop.ini
+KGC-javaWeb/10_day/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/css/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/images/11/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/images/banner/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/images/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/images/newyear/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/images/search/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/js/desktop.ini
+KGC-javaWeb/10_day/ilxdh.com/js/layer/desktop.ini
+"KGC-javaWeb/10_day/\351\200\202\345\220\210\345\233\276\347\211\207\345\210\227\350\241\250\346\216\222\345\210\227(\346\226\207\345\255\227\350\257\264\346\230\216\350\276\203\345\244\232)\347\232\204CSS3\345\212\250\347\224\273\346\225\210\346\236\234/css/desktop.ini"
+"KGC-javaWeb/10_day/\351\200\202\345\220\210\345\233\276\347\211\207\345\210\227\350\241\250\346\216\222\345\210\227(\346\226\207\345\255\227\350\257\264\346\230\216\350\276\203\345\244\232)\347\232\204CSS3\345\212\250\347\224\273\346\225\210\346\236\234/desktop.ini"
+"KGC-javaWeb/10_day/\351\200\202\345\220\210\345\233\276\347\211\207\345\210\227\350\241\250\346\216\222\345\210\227(\346\226\207\345\255\227\350\257\264\346\230\216\350\276\203\345\244\232)\347\232\204CSS3\345\212\250\347\224\273\346\225\210\346\236\234/images/desktop.ini"
+KGC-javaWeb/KGC-javaWeb.zip
+KGC-javaWeb/Seekhub/css/desktop.ini
+KGC-javaWeb/Seekhub/desktop.ini
+KGC-javaWeb/Seekhub/img/desktop.ini
+"KGC-javaWeb/ppt/1.HTML5\345\237\272\347\241\200\343\200\201\345\210\227\350\241\250\343\200\201\350\241\250\346\240\274\344\270\216\345\252\222\344\275\223\345\205\203\347\264\240/desktop.ini"
+"KGC-javaWeb/ppt/10.\345\210\266\344\275\2341\345\217\267\345\272\227\347\275\221\347\253\231\357\274\210\344\270\211\357\274\211/"
+"KGC-javaWeb/ppt/2.\350\241\250\345\215\225/desktop.ini"
+"KGC-javaWeb/ppt/3.\345\210\235\350\257\206CSS3/desktop.ini"
+"KGC-javaWeb/ppt/4.CSS3\347\276\216\345\214\226\347\275\221\351\241\265\345\205\203\347\264\240/desktop.ini"
+"KGC-javaWeb/ppt/5.\347\233\222\345\255\220\346\250\241\345\236\213\343\200\201\346\265\256\345\212\250/desktop.ini"
+"KGC-javaWeb/ppt/6.\345\256\232\344\275\215\347\275\221\351\241\265\345\205\203\347\264\240/desktop.ini"
+"KGC-javaWeb/ppt/7.\345\210\251\347\224\250CSS3\345\210\266\344\275\234\347\275\221\351\241\265\345\212\250\347\224\273/desktop.ini"
+"KGC-javaWeb/ppt/8.\345\210\266\344\275\2341\345\217\267\345\272\227\347\275\221\347\253\231\357\274\210\344\270\200\357\274\211/desktop.ini"
+"KGC-javaWeb/ppt/9.\345\210\266\344\275\2341\345\217\267\345\272\227\347\275\221\347\253\231\357\274\210\344\272\214\357\274\211/desktop.ini"
+KGC-javaWeb/ppt/desktop.ini
+KGC-javaWeb/test/desktop.ini
+javascript-and-jquery-book-code-0915/c01/images/desktop.ini
+javascript-and-jquery-book-code-0915/c02/css/desktop.ini
+javascript-and-jquery-book-code-0915/c02/desktop.ini
+javascript-and-jquery-book-code-0915/c02/images/desktop.ini
+javascript-and-jquery-book-code-0915/c02/js/desktop.ini
+javascript-and-jquery-book-code-0915/c03/css/desktop.ini
+javascript-and-jquery-book-code-0915/c03/desktop.ini
+javascript-and-jquery-book-code-0915/c03/images/desktop.ini
+javascript-and-jquery-book-code-0915/c03/js/desktop.ini
+javascript-and-jquery-book-code-0915/c04/css/desktop.ini
+javascript-and-jquery-book-code-0915/c04/desktop.ini
+javascript-and-jquery-book-code-0915/c04/images/desktop.ini
+javascript-and-jquery-book-code-0915/c04/js/desktop.ini
+javascript-and-jquery-book-code-0915/c05/css/desktop.ini
+javascript-and-jquery-book-code-0915/c05/desktop.ini
+javascript-and-jquery-book-code-0915/c05/images/desktop.ini
+javascript-and-jquery-book-code-0915/c05/js/desktop.ini
+javascript-and-jquery-book-code-0915/c06/css/desktop.ini
+javascript-and-jquery-book-code-0915/c06/desktop.ini
+javascript-and-jquery-book-code-0915/c06/images/desktop.ini
+javascript-and-jquery-book-code-0915/c06/js/desktop.ini
+javascript-and-jquery-book-code-0915/c07/css/desktop.ini
+javascript-and-jquery-book-code-0915/c07/images/desktop.ini
+javascript-and-jquery-book-code-0915/c08/css/desktop.ini
+javascript-and-jquery-book-code-0915/c08/data/desktop.ini
+javascript-and-jquery-book-code-0915/c08/desktop.ini
+javascript-and-jquery-book-code-0915/c08/img/desktop.ini
+javascript-and-jquery-book-code-0915/c08/js/desktop.ini
+javascript-and-jquery-book-code-0915/c09/css/desktop.ini
+javascript-and-jquery-book-code-0915/c09/css/pepper-grinder/desktop.ini
+javascript-and-jquery-book-code-0915/c09/css/pepper-grinder/images/desktop.ini
+javascript-and-jquery-book-code-0915/c09/desktop.ini
+javascript-and-jquery-book-code-0915/c09/img/desktop.ini
+javascript-and-jquery-book-code-0915/c09/js/desktop.ini
+javascript-and-jquery-book-code-0915/c10/css/desktop.ini
+javascript-and-jquery-book-code-0915/c10/desktop.ini
+javascript-and-jquery-book-code-0915/c10/img/desktop.ini
+javascript-and-jquery-book-code-0915/c10/js/desktop.ini
+javascript-and-jquery-book-code-0915/c11/css/desktop.ini
+javascript-and-jquery-book-code-0915/c11/desktop.ini
+javascript-and-jquery-book-code-0915/c11/img/desktop.ini
+javascript-and-jquery-book-code-0915/c11/js/desktop.ini
+javascript-and-jquery-book-code-0915/c12/css/desktop.ini
+javascript-and-jquery-book-code-0915/c12/desktop.ini
+javascript-and-jquery-book-code-0915/c12/img/desktop.ini
+javascript-and-jquery-book-code-0915/c12/js/desktop.ini
+javascript-and-jquery-book-code-0915/c13/css/desktop.ini
+javascript-and-jquery-book-code-0915/c13/css/ui-lightness/desktop.ini
+javascript-and-jquery-book-code-0915/c13/css/ui-lightness/images/desktop.ini
+javascript-and-jquery-book-code-0915/c13/desktop.ini
+javascript-and-jquery-book-code-0915/c13/img/desktop.ini
+javascript-and-jquery-book-code-0915/c13/js/desktop.ini
+javascript-and-jquery-book-code-0915/css/desktop.ini
+"js\347\233\270\345\205\263\347\237\245
+\350\257\206\347\202\271\342\200\224\342\200\224yexk\350\221\227/media/desktop.ini"
+love/Love_files/desktop.ini
+love/photo/css/desktop.ini
+love/photo/desktop.ini
+love/photo/images/desktop.ini
+love/photo/js/desktop.ini
+seekhub/.idea/desktop.ini
+seekhub/.idea/inspectionProfiles/
+seekhub/bigdata/css/desktop.ini
+seekhub/bigdata/desktop.ini
+seekhub/bigdata/img/desktop.ini
+seekhub/bigdata/js/desktop.ini
+seekhub/desktop.ini
+seekhub/image/desktop.ini
+seekhub/mobile/desktop.ini
+seekhub/office/css/desktop.ini
+seekhub/office/desktop.ini
+seekhub/office/img/desktop.ini
+seekhub/office/js/desktop.ini
+seekhub/software/css/desktop.ini
+seekhub/software/desktop.ini
+seekhub/software/img/desktop.ini
+seekhub/software/js/desktop.ini
+seekhub/source/css/desktop.ini
+seekhub/source/desktop.ini
+seekhub/source/img/desktop.ini
+seekhub/source/js/desktop.ini
+seekhub/tool/css/desktop.ini
+seekhub/tool/desktop.ini
+seekhub/tool/img/desktop.ini
+seekhub/tool/js/desktop.ini
+web/desktop.ini
+web/gitnavi/css/desktop.ini
+web/gitnavi/desktop.ini
+web/gitnavi/flash/
+web/gitnavi/images/desktop.ini
+web/gitnavi/js/desktop.ini
+web/gitnavi/picture/desktop.ini
+web_music/.idea/desktop.ini
+web_music/.idea/inspectionProfiles/
+web_music/image1/desktop.ini
+web_music/imagefirst/desktop.ini
+Charts_view/Cha
+pter1/Flotr2-master/examples/lib/codemirror/mode/tiddlywiki/desktop.ini
+"KGC-javaWeb/02 day/01 \344
+\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220/\347\273\203\344\271\2402\357\274\232\351\237\263\344\271\220\346\216\222\350\241\214\346\246\234/desktop.ini"
+"KGC-j
+avaWeb/04 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-2/\347\273\203\344\271\2402\357\274\232\345\210\266\344\275\234\345\275\261\350\247\206\347\256\200\344\273\213/img/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2405\357\274\232\345\210\266\344\275\234\347\225\205\351\224\200\344\271\246\346\216\222\350\241\214\346\246\234/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"KGC-javaWeb/07_day/01 \344\270\212\346\234\272\347\273\203\344
+\271\240\347\264\240\346\235\220-5/\347\273\203\344\271\2401\357\274\232QQ\344\274\232\345\221\230\351\241\265\351\235\242\345\257\274\350\210\252/desktop.ini"
+"KGC-javaWeb/08_day/02 \344\275\234\344\270\232\347\264\240\346\235\220/\344\275\234\344\270\2323\357\274\232\347\2
+76\216\351\243\237\344\273\212\346\227\245\346\216\250\350\215\220/desktop.ini"
+"KGC-javaWeb/ppt/8.\345\210\266\344\275\2341\345\217\267\345\272\227\347\275\221\347\253\231\357\274\21
+0\344\270\200\357\274\211/desktop.ini"
+"js\347\233\270\345\205\263\347\237\245\350\257\206\347\202\271
+\342\200\224\342\200\224yexk\350\221\227/media/desktop.ini"
+"KGC-javaWeb/05 day/01 \344\270\212\346\234\272\347\273\203\344\271\240\347\264\240\346\235\220-3/\347\273\203\344\271\2405\357\274\232\345\210\266\344
+\275\234\347\225\205\351\224\200\344\271\246\346\216\222\350\241\214\346\246\234/\345\233\276\347\211\207\347\264\240\346\235\220/desktop.ini"
+"js\347\233\270\345\205\263\347\237\245\350\257\206\347\202\271\342\200\224\342\200\224yexk\350\221\227/media/desktop.ini"
